@@ -1,0 +1,1263 @@
+mpm_winnt--- NOME: Carlos Vilaça ---
+DATA: 2026-10-10 11:59:26.219323
+--- INICIO DOS RESULTADOS ---
+[Sun Dec 01 00:26:23.674380 2024] [mpm_winnt:notice] [pid 11710:tid 359] AH00098: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sun Dec 01 02:19:09.625822 2024] [mpm_winnt:notice] [pid 17674:tid 357] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Sun Dec 01 03:46:54.593983 2024] [mpm_winnt:warn] [pid 28885:tid 363] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 01 06:48:38.287234 2024] [mpm_winnt:warn] [pid 19514:tid 393] AH00094: Child: Starting 200 worker threads.
+[Sun Dec 01 07:04:25.668778 2024] [mpm_winnt:crit] [pid 3332:tid 414] AH00418: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Sun Dec 01 09:19:17.344711 2024] [mpm_winnt:warn] [pid 17739:tid 398] AH00455: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 01 11:46:01.819002 2024] [mpm_winnt:warn] [pid 8531:tid 386] AH00456: Child: Starting 150 worker threads.
+[Sun Dec 01 14:00:20.411378 2024] [mpm_winnt:notice] [pid 11713:tid 389] AH02538: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Dec 01 16:24:58.830820 2024] [mpm_winnt:crit] [pid 27656:tid 375] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Sun Dec 01 18:01:18.452403 2024] [mpm_winnt:crit] [pid 16439:tid 396] AH00456: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 01 18:14:58.145018 2024] [mpm_winnt:crit] [pid 4424:tid 383] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 01 19:44:30.713773 2024] [mpm_winnt:notice] [pid 11392:tid 344] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Mon Dec 02 01:10:52.644582 2024] [mpm_winnt:crit] [pid 29034:tid 365] AH00354: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Dec 02 01:21:03.603976 2024] [mpm_winnt:notice] [pid 17682:tid 383] AH00455: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Mon Dec 02 01:39:15.829450 2024] [mpm_winnt:notice] [pid 3011:tid 347] AH00098: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 02 01:41:05.620722 2024] [mpm_winnt:notice] [pid 23253:tid 349] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 02 01:49:14.714068 2024] [mpm_winnt:notice] [pid 31228:tid 372] AH00456: Parent: Created child process 22755
+[Mon Dec 02 02:06:18.637938 2024] [mpm_winnt:notice] [pid 25387:tid 362] AH01909: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Dec 02 02:42:34.764519 2024] [mpm_winnt:warn] [pid 16059:tid 351] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Dec 02 08:48:22.761563 2024] [mpm_winnt:warn] [pid 27357:tid 392] AH01909: Parent: Created child process 8954
+[Mon Dec 02 09:59:41.006662 2024] [mpm_winnt:warn] [pid 7241:tid 351] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 02 10:50:52.718253 2024] [mpm_winnt:warn] [pid 13820:tid 363] AH01909: Child: Starting 150 worker threads.
+[Mon Dec 02 15:51:37.262340 2024] [mpm_winnt:crit] [pid 26494:tid 418] AH00354: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Dec 02 17:43:09.882805 2024] [mpm_winnt:notice] [pid 25645:tid 413] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Mon Dec 02 20:52:39.623875 2024] [mpm_winnt:warn] [pid 17961:tid 391] AH02538: Child: Starting 150 worker threads.
+[Mon Dec 02 22:44:52.869852 2024] [mpm_winnt:crit] [pid 24410:tid 407] AH02538: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Dec 02 23:09:17.657506 2024] [mpm_winnt:notice] [pid 7559:tid 369] AH00098: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Dec 03 04:33:37.897449 2024] [mpm_winnt:crit] [pid 12024:tid 413] AH01909: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Dec 03 06:03:09.398939 2024] [mpm_winnt:warn] [pid 13721:tid 409] AH00098: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Tue Dec 03 06:32:02.050440 2024] [mpm_winnt:warn] [pid 16025:tid 398] AH01909: Child: Parent process exited abruptly. Child process is ending
+[Tue Dec 03 06:33:28.418927 2024] [mpm_winnt:notice] [pid 29167:tid 407] AH00418: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Tue Dec 03 10:11:03.426120 2024] [mpm_winnt:notice] [pid 5540:tid 363] AH01909: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Dec 03 12:49:38.299894 2024] [mpm_winnt:crit] [pid 26425:tid 382] AH00456: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Tue Dec 03 16:53:01.737526 2024] [mpm_winnt:crit] [pid 9140:tid 371] AH02538: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Tue Dec 03 19:53:51.222915 2024] [mpm_winnt:notice] [pid 26317:tid 394] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 03 23:16:21.480082 2024] [mpm_winnt:notice] [pid 29639:tid 365] AH01909: Parent: Created child process 5104
+[Wed Dec 04 01:36:40.599264 2024] [mpm_winnt:warn] [pid 23226:tid 359] AH00354: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 04 02:14:40.187997 2024] [mpm_winnt:crit] [pid 19682:tid 414] AH01909: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Dec 04 04:52:05.549375 2024] [mpm_winnt:notice] [pid 18084:tid 385] AH00098: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 04 05:30:51.721223 2024] [mpm_winnt:notice] [pid 16871:tid 383] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Wed Dec 04 06:24:15.889587 2024] [mpm_winnt:warn] [pid 10952:tid 376] AH01909: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Wed Dec 04 07:11:46.116195 2024] [mpm_winnt:crit] [pid 25981:tid 379] AH00456: Parent: Created child process 16117
+[Wed Dec 04 07:31:26.303426 2024] [mpm_winnt:warn] [pid 21007:tid 393] AH02538: Parent: Created child process 25421
+[Wed Dec 04 08:54:42.391240 2024] [mpm_winnt:warn] [pid 3770:tid 345] AH00098: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 04 09:01:46.734091 2024] [mpm_winnt:warn] [pid 4879:tid 362] AH00098: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 04 09:15:36.172512 2024] [mpm_winnt:warn] [pid 6072:tid 350] AH00456: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 04 10:57:09.609379 2024] [mpm_winnt:warn] [pid 6193:tid 388] AH01909: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 04 12:30:06.468285 2024] [mpm_winnt:warn] [pid 8619:tid 351] AH02538: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 04 13:11:54.020763 2024] [mpm_winnt:notice] [pid 13167:tid 383] AH00455: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Dec 04 13:14:56.766610 2024] [mpm_winnt:notice] [pid 10685:tid 375] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 04 18:08:20.531234 2024] [mpm_winnt:crit] [pid 28200:tid 378] AH00098: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Dec 04 19:26:46.355691 2024] [mpm_winnt:notice] [pid 24164:tid 386] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Wed Dec 04 19:50:20.823761 2024] [mpm_winnt:crit] [pid 23714:tid 370] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Wed Dec 04 19:51:45.495106 2024] [mpm_winnt:crit] [pid 2405:tid 362] AH00094: Child: Starting 96 worker threads.
+[Thu Dec 05 01:31:26.539967 2024] [mpm_winnt:crit] [pid 7929:tid 376] AH02538: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Dec 05 02:03:25.872777 2024] [mpm_winnt:warn] [pid 21426:tid 372] AH00354: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Dec 05 04:42:04.194560 2024] [mpm_winnt:crit] [pid 25431:tid 405] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 05 06:33:30.211032 2024] [mpm_winnt:notice] [pid 27273:tid 386] AH00094: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Thu Dec 05 06:39:06.681435 2024] [mpm_winnt:warn] [pid 1802:tid 380] AH00418: Parent: Created child process 22209
+[Thu Dec 05 06:45:20.253840 2024] [mpm_winnt:notice] [pid 2185:tid 401] AH01909: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Thu Dec 05 07:12:09.147527 2024] [mpm_winnt:notice] [pid 21728:tid 400] AH02538: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 05 08:01:24.579207 2024] [mpm_winnt:crit] [pid 14545:tid 417] AH00094: Child: Parent process exited abruptly. Child process is ending
+[Thu Dec 05 08:26:57.483875 2024] [mpm_winnt:warn] [pid 2694:tid 349] AH01909: Parent: Created child process 16113
+[Thu Dec 05 09:30:06.382151 2024] [mpm_winnt:crit] [pid 19620:tid 377] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 05 09:54:17.027920 2024] [mpm_winnt:crit] [pid 11700:tid 374] AH00354: Child: Starting 128 worker threads.
+[Thu Dec 05 10:16:35.687729 2024] [mpm_winnt:notice] [pid 12259:tid 365] AH00456: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Thu Dec 05 11:48:39.664623 2024] [mpm_winnt:notice] [pid 8295:tid 341] AH00455: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Dec 05 14:33:41.373142 2024] [mpm_winnt:crit] [pid 26701:tid 407] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 05 14:34:06.863809 2024] [mpm_winnt:warn] [pid 21973:tid 345] AH01909: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 05 15:43:32.826469 2024] [mpm_winnt:crit] [pid 25989:tid 401] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 05 16:06:54.616948 2024] [mpm_winnt:crit] [pid 23227:tid 352] AH02538: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Thu Dec 05 17:09:53.378024 2024] [mpm_winnt:crit] [pid 13556:tid 358] AH00354: Child: Starting 96 worker threads.
+[Thu Dec 05 19:47:37.691538 2024] [mpm_winnt:warn] [pid 15083:tid 415] AH00354: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Thu Dec 05 22:15:12.465140 2024] [mpm_winnt:warn] [pid 20941:tid 369] AH00456: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 05 23:48:28.392527 2024] [mpm_winnt:warn] [pid 21551:tid 376] AH00094: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Dec 05 23:50:58.730751 2024] [mpm_winnt:crit] [pid 21536:tid 383] AH00418: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Fri Dec 06 01:11:04.415632 2024] [mpm_winnt:warn] [pid 16055:tid 341] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Fri Dec 06 04:36:07.597386 2024] [mpm_winnt:warn] [pid 16194:tid 402] AH02538: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Dec 06 06:22:19.790719 2024] [mpm_winnt:notice] [pid 10606:tid 410] AH01909: Child: Parent process exited abruptly. Child process is ending
+[Fri Dec 06 06:25:29.397193 2024] [mpm_winnt:notice] [pid 19637:tid 364] AH01909: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 06 07:31:29.606555 2024] [mpm_winnt:warn] [pid 18442:tid 351] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 06 07:32:40.195447 2024] [mpm_winnt:crit] [pid 5641:tid 404] AH00455: Parent: Created child process 29505
+[Fri Dec 06 08:15:40.703078 2024] [mpm_winnt:warn] [pid 29734:tid 405] AH00418: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 06 08:29:33.791432 2024] [mpm_winnt:notice] [pid 22393:tid 375] AH00456: Parent: Created child process 4846
+[Fri Dec 06 08:49:07.897107 2024] [mpm_winnt:notice] [pid 14253:tid 416] AH01909: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 06 09:01:24.047548 2024] [mpm_winnt:crit] [pid 22943:tid 345] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 06 10:37:14.083998 2024] [mpm_winnt:warn] [pid 19476:tid 417] AH00354: Parent: Created child process 9931
+[Fri Dec 06 11:37:46.191409 2024] [mpm_winnt:crit] [pid 12339:tid 388] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 06 12:59:55.893277 2024] [mpm_winnt:warn] [pid 14514:tid 371] AH00418: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Dec 06 13:26:36.308193 2024] [mpm_winnt:warn] [pid 24773:tid 382] AH00354: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Fri Dec 06 14:03:53.681353 2024] [mpm_winnt:crit] [pid 13458:tid 387] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Dec 06 14:16:50.610413 2024] [mpm_winnt:crit] [pid 7048:tid 410] AH00456: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 06 15:44:36.297967 2024] [mpm_winnt:notice] [pid 23278:tid 405] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Fri Dec 06 15:46:25.565470 2024] [mpm_winnt:notice] [pid 19543:tid 405] AH00098: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Fri Dec 06 16:09:16.100609 2024] [mpm_winnt:warn] [pid 13733:tid 400] AH02538: Child: Starting 96 worker threads.
+[Fri Dec 06 16:30:35.803925 2024] [mpm_winnt:warn] [pid 18766:tid 345] AH01909: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Dec 06 17:09:01.626095 2024] [mpm_winnt:warn] [pid 9474:tid 346] AH00418: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 06 17:52:48.547844 2024] [mpm_winnt:warn] [pid 21208:tid 362] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Fri Dec 06 23:09:08.276786 2024] [mpm_winnt:warn] [pid 1794:tid 378] AH01909: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Fri Dec 06 23:10:47.700398 2024] [mpm_winnt:notice] [pid 27293:tid 379] AH00354: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Sat Dec 07 00:07:40.176409 2024] [mpm_winnt:crit] [pid 23210:tid 370] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Sat Dec 07 03:31:09.474080 2024] [mpm_winnt:crit] [pid 29702:tid 375] AH00418: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Dec 07 03:45:14.569756 2024] [mpm_winnt:warn] [pid 22285:tid 364] AH00354: Parent: Created child process 24994
+[Sat Dec 07 09:39:57.062683 2024] [mpm_winnt:crit] [pid 1919:tid 365] AH00094: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 07 10:06:01.713053 2024] [mpm_winnt:warn] [pid 1344:tid 388] AH01909: Child: Starting 200 worker threads.
+[Sat Dec 07 10:40:51.876493 2024] [mpm_winnt:notice] [pid 1962:tid 405] AH00456: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Dec 07 13:46:41.416281 2024] [mpm_winnt:crit] [pid 5025:tid 403] AH00098: Parent: Created child process 20252
+[Sat Dec 07 14:49:34.802376 2024] [mpm_winnt:crit] [pid 25067:tid 346] AH00098: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sat Dec 07 16:41:14.003693 2024] [mpm_winnt:crit] [pid 29518:tid 358] AH00098: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sat Dec 07 17:45:59.127765 2024] [mpm_winnt:crit] [pid 18708:tid 384] AH00094: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Sat Dec 07 19:02:07.162428 2024] [mpm_winnt:crit] [pid 19571:tid 352] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 07 23:40:29.038844 2024] [mpm_winnt:notice] [pid 6764:tid 364] AH00094: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Sun Dec 08 00:17:34.365216 2024] [mpm_winnt:crit] [pid 6077:tid 384] AH00456: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sun Dec 08 01:13:25.155979 2024] [mpm_winnt:notice] [pid 12944:tid 380] AH00094: Child: Starting 96 worker threads.
+[Sun Dec 08 02:49:05.622477 2024] [mpm_winnt:crit] [pid 3852:tid 417] AH00354: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Dec 08 03:45:22.725547 2024] [mpm_winnt:notice] [pid 21897:tid 392] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Sun Dec 08 03:46:38.868447 2024] [mpm_winnt:crit] [pid 15454:tid 363] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 08 04:34:02.386534 2024] [mpm_winnt:notice] [pid 23076:tid 366] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sun Dec 08 06:43:40.079127 2024] [mpm_winnt:notice] [pid 23186:tid 343] AH02538: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 08 06:44:56.311988 2024] [mpm_winnt:notice] [pid 18838:tid 403] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 08 06:50:24.104937 2024] [mpm_winnt:crit] [pid 30479:tid 393] AH00094: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sun Dec 08 06:54:20.029390 2024] [mpm_winnt:notice] [pid 3225:tid 371] AH00456: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sun Dec 08 07:17:58.784303 2024] [mpm_winnt:notice] [pid 23007:tid 341] AH00098: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Dec 08 07:45:33.399524 2024] [mpm_winnt:notice] [pid 11867:tid 419] AH02538: Child: Starting 128 worker threads.
+[Sun Dec 08 12:10:51.499511 2024] [mpm_winnt:crit] [pid 26545:tid 359] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 08 12:54:15.191735 2024] [mpm_winnt:warn] [pid 5813:tid 345] AH00455: Parent: Created child process 1389
+[Sun Dec 08 13:37:00.213011 2024] [mpm_winnt:warn] [pid 9402:tid 408] AH00098: Child: Starting 64 worker threads.
+[Sun Dec 08 13:52:09.403805 2024] [mpm_winnt:crit] [pid 17085:tid 359] AH02538: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sun Dec 08 15:43:59.050923 2024] [mpm_winnt:notice] [pid 29854:tid 387] AH00094: Child: Parent process exited abruptly. Child process is ending
+[Sun Dec 08 16:45:41.373233 2024] [mpm_winnt:warn] [pid 17340:tid 368] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Sun Dec 08 17:38:23.637404 2024] [mpm_winnt:warn] [pid 19278:tid 376] AH00456: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Sun Dec 08 19:04:13.009892 2024] [mpm_winnt:warn] [pid 23737:tid 398] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 08 20:00:22.264644 2024] [mpm_winnt:warn] [pid 26906:tid 357] AH00418: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 08 22:01:37.841149 2024] [mpm_winnt:notice] [pid 13249:tid 381] AH00354: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sun Dec 08 23:43:17.423156 2024] [mpm_winnt:crit] [pid 1651:tid 413] AH01909: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Dec 08 23:53:26.716122 2024] [mpm_winnt:notice] [pid 31659:tid 411] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Mon Dec 09 00:32:42.155709 2024] [mpm_winnt:notice] [pid 20212:tid 404] AH00418: Child: Starting 64 worker threads.
+[Mon Dec 09 01:04:20.078717 2024] [mpm_winnt:notice] [pid 30587:tid 350] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 09 02:17:59.866734 2024] [mpm_winnt:notice] [pid 19100:tid 367] AH01909: Parent: Created child process 29775
+[Mon Dec 09 05:59:21.792962 2024] [mpm_winnt:crit] [pid 20081:tid 396] AH00098: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Mon Dec 09 06:31:53.740645 2024] [mpm_winnt:notice] [pid 1499:tid 383] AH00354: Parent: Created child process 3594
+[Mon Dec 09 08:16:12.267807 2024] [mpm_winnt:crit] [pid 10565:tid 343] AH00455: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 09 09:18:07.298534 2024] [mpm_winnt:warn] [pid 22354:tid 365] AH01909: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Mon Dec 09 09:58:23.003267 2024] [mpm_winnt:crit] [pid 5674:tid 352] AH00098: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Mon Dec 09 10:12:15.019767 2024] [mpm_winnt:crit] [pid 5123:tid 355] AH00354: Parent: Created child process 26869
+[Mon Dec 09 10:29:25.391947 2024] [mpm_winnt:notice] [pid 20019:tid 394] AH00456: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Mon Dec 09 11:56:10.050765 2024] [mpm_winnt:warn] [pid 8428:tid 344] FATAL ERROR: Memory allocation failed in mpm_winnt module.
+[Mon Dec 09 12:00:17.250028 2024] [mpm_winnt:notice] [pid 3276:tid 404] AH02538: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Dec 09 14:28:14.726593 2024] [mpm_winnt:crit] [pid 21188:tid 382] AH00418: Child: Starting 64 worker threads.
+[Mon Dec 09 15:15:33.179573 2024] [mpm_winnt:crit] [pid 7653:tid 366] AH00456: Parent: Created child process 4851
+[Mon Dec 09 17:37:35.733934 2024] [mpm_winnt:crit] [pid 29700:tid 401] AH00455: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Dec 09 18:08:55.877945 2024] [mpm_winnt:warn] [pid 7266:tid 373] AH00354: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Dec 09 19:24:01.771848 2024] [mpm_winnt:warn] [pid 25612:tid 372] CRITICAL ERROR: SSL module encountered unrecoverable issue.
+[Mon Dec 09 19:30:47.150071 2024] [mpm_winnt:warn] [pid 26900:tid 410] AH00456: Child: Parent process exited abruptly. Child process is ending
+[Mon Dec 09 20:12:16.587429 2024] [mpm_winnt:warn] [pid 21504:tid 351] AH00455: Child: Starting 150 worker threads.
+[Mon Dec 09 21:33:13.135420 2024] [mpm_winnt:warn] [pid 19211:tid 406] AH00098: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Mon Dec 09 22:25:49.393936 2024] [mpm_winnt:notice] [pid 23740:tid 391] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Dec 09 23:25:33.672356 2024] [mpm_winnt:notice] [pid 1427:tid 398] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 10 00:26:12.200705 2024] [mpm_winnt:notice] [pid 2866:tid 388] AH00455: Child: Starting 200 worker threads.
+[Tue Dec 10 01:19:24.370529 2024] [mpm_winnt:warn] [pid 7505:tid 366] AH00456: Parent: Created child process 20114
+[Tue Dec 10 01:57:09.401373 2024] [mpm_winnt:notice] [pid 27342:tid 399] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 10 04:34:51.854816 2024] [mpm_winnt:warn] [pid 19759:tid 360] AH00094: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Dec 10 05:29:57.566968 2024] [mpm_winnt:warn] [pid 11123:tid 356] AH02538: Parent: Created child process 5812
+[Tue Dec 10 07:25:49.027665 2024] [mpm_winnt:notice] [pid 19195:tid 381] AH00098: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Dec 10 07:50:51.770981 2024] [mpm_winnt:notice] [pid 5243:tid 343] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Dec 10 08:02:39.179938 2024] [mpm_winnt:crit] [pid 24168:tid 399] AH00098: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Tue Dec 10 08:39:48.283361 2024] [mpm_winnt:crit] [pid 18475:tid 347] AH00418: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Dec 10 09:29:59.066924 2024] [mpm_winnt:crit] [pid 25251:tid 388] AH00354: Parent: Created child process 20829
+[Tue Dec 10 10:21:57.046390 2024] [mpm_winnt:crit] [pid 2101:tid 359] AH00418: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Dec 10 16:15:44.578530 2024] [mpm_winnt:crit] [pid 25422:tid 362] AH01909: Parent: Created child process 20015
+[Tue Dec 10 18:21:19.661975 2024] [mpm_winnt:warn] [pid 26961:tid 372] AH00098: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Tue Dec 10 18:44:46.433139 2024] [mpm_winnt:notice] [pid 21204:tid 398] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Dec 11 02:34:11.241230 2024] [mpm_winnt:crit] [pid 6308:tid 352] AH00455: Child: Starting 64 worker threads.
+[Wed Dec 11 06:25:40.304368 2024] [mpm_winnt:crit] [pid 13139:tid 377] AH02538: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Wed Dec 11 08:31:09.696542 2024] [mpm_winnt:crit] [pid 18954:tid 406] AH02538: Parent: Created child process 12698
+[Wed Dec 11 08:38:02.845520 2024] [mpm_winnt:notice] [pid 10843:tid 374] AH00098: Child: Starting 200 worker threads.
+[Wed Dec 11 11:15:41.388734 2024] [mpm_winnt:notice] [pid 29392:tid 349] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 11 13:18:09.849295 2024] [mpm_winnt:notice] [pid 11040:tid 418] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Wed Dec 11 15:20:15.581604 2024] [mpm_winnt:warn] [pid 5242:tid 412] AH00098: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Dec 11 17:50:56.146358 2024] [mpm_winnt:crit] [pid 26988:tid 358] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Wed Dec 11 19:22:47.270127 2024] [mpm_winnt:warn] [pid 13972:tid 416] AH00098: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Wed Dec 11 23:18:41.466155 2024] [mpm_winnt:crit] [pid 1469:tid 420] AH02538: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Wed Dec 11 23:36:40.727774 2024] [mpm_winnt:notice] [pid 27098:tid 384] AH00455: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Dec 12 01:45:47.553170 2024] [mpm_winnt:warn] [pid 16614:tid 393] AH00354: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Thu Dec 12 01:58:55.312811 2024] [mpm_winnt:warn] [pid 28069:tid 410] AH00455: Child: Starting 150 worker threads.
+[Thu Dec 12 05:58:54.570233 2024] [mpm_winnt:notice] [pid 8568:tid 347] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Thu Dec 12 06:51:03.576128 2024] [mpm_winnt:warn] [pid 5535:tid 402] AH01909: Child: Starting 150 worker threads.
+[Thu Dec 12 06:59:42.410426 2024] [mpm_winnt:crit] [pid 3099:tid 366] AH00418: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Dec 12 07:56:28.782666 2024] [mpm_winnt:warn] [pid 29353:tid 356] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Dec 12 09:23:40.351502 2024] [mpm_winnt:crit] [pid 8000:tid 397] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Thu Dec 12 13:50:25.461921 2024] [mpm_winnt:warn] [pid 12697:tid 394] AH00418: Parent: Created child process 1224
+[Thu Dec 12 19:12:54.414630 2024] [mpm_winnt:crit] [pid 6703:tid 407] AH02538: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 12 23:05:07.183060 2024] [mpm_winnt:warn] [pid 5915:tid 400] AH00455: Child: Starting 128 worker threads.
+[Thu Dec 12 23:36:56.022639 2024] [mpm_winnt:warn] [pid 5587:tid 357] AH00456: Child: Parent process exited abruptly. Child process is ending
+[Fri Dec 13 00:41:33.810585 2024] [mpm_winnt:warn] [pid 2728:tid 407] AH01909: Parent: Created child process 18494
+[Fri Dec 13 02:05:14.890848 2024] [mpm_winnt:notice] [pid 4284:tid 360] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Fri Dec 13 02:35:49.296289 2024] [mpm_winnt:notice] [pid 23984:tid 420] AH00418: Parent: Created child process 27596
+[Fri Dec 13 02:38:49.313953 2024] [mpm_winnt:warn] [pid 7180:tid 346] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Fri Dec 13 04:04:18.689954 2024] [mpm_winnt:notice] [pid 4765:tid 356] AH00098: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Dec 13 04:06:34.418388 2024] [mpm_winnt:notice] [pid 21997:tid 341] AH00354: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Dec 13 04:09:34.835218 2024] [mpm_winnt:crit] [pid 1108:tid 388] AH00098: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Fri Dec 13 06:26:28.527330 2024] [mpm_winnt:warn] [pid 3897:tid 414] AH00094: Parent: Created child process 17821
+[Fri Dec 13 07:23:24.132602 2024] [mpm_winnt:warn] [pid 6429:tid 380] AH00456: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Dec 13 07:45:38.110946 2024] [mpm_winnt:notice] [pid 29306:tid 407] AH02538: Parent: Created child process 20545
+[Fri Dec 13 09:03:31.884199 2024] [mpm_winnt:notice] [pid 11394:tid 395] AH00418: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Fri Dec 13 11:18:37.335234 2024] [mpm_winnt:warn] [pid 24211:tid 374] AH00418: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 13 20:44:24.311973 2024] [mpm_winnt:crit] [pid 11405:tid 378] AH00354: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Dec 14 02:08:43.822303 2024] [mpm_winnt:notice] [pid 17484:tid 378] AH00094: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Dec 14 04:59:36.025663 2024] [mpm_winnt:notice] [pid 4371:tid 372] AH00098: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 14 06:10:49.120578 2024] [mpm_winnt:crit] [pid 5215:tid 390] AH00456: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Dec 14 07:41:34.890095 2024] [mpm_winnt:notice] [pid 3934:tid 397] AH00455: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Dec 14 08:00:25.635889 2024] [mpm_winnt:warn] [pid 23354:tid 387] AH00098: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 14 08:26:26.739346 2024] [mpm_winnt:warn] [pid 18277:tid 403] AH00098: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Sat Dec 14 10:59:52.420654 2024] [mpm_winnt:warn] [pid 26056:tid 407] AH01909: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Sat Dec 14 12:06:14.124663 2024] [mpm_winnt:warn] [pid 31897:tid 412] AH02538: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sat Dec 14 17:13:30.675602 2024] [mpm_winnt:crit] [pid 12885:tid 394] AH00098: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 14 17:35:01.057605 2024] [mpm_winnt:warn] [pid 9701:tid 384] AH00456: Child: Parent process exited abruptly. Child process is ending
+[Sat Dec 14 17:52:47.090716 2024] [mpm_winnt:notice] [pid 21470:tid 387] AH00354: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 14 19:49:54.416490 2024] [mpm_winnt:notice] [pid 6915:tid 396] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sat Dec 14 19:58:29.244830 2024] [mpm_winnt:crit] [pid 13905:tid 408] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Sat Dec 14 21:11:56.384875 2024] [mpm_winnt:warn] [pid 12936:tid 405] AH02538: Child: Starting 128 worker threads.
+[Sat Dec 14 22:18:16.218055 2024] [mpm_winnt:crit] [pid 10346:tid 398] AH01909: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Dec 14 22:31:23.504724 2024] [mpm_winnt:warn] [pid 7042:tid 405] AH00418: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Sat Dec 14 23:13:12.210225 2024] [mpm_winnt:warn] [pid 31205:tid 368] AH02538: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Sun Dec 15 02:47:05.360888 2024] [mpm_winnt:crit] [pid 20110:tid 372] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 15 04:08:49.397493 2024] [mpm_winnt:warn] [pid 23497:tid 353] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Sun Dec 15 05:04:07.479423 2024] [mpm_winnt:crit] [pid 13773:tid 387] AH00098: Child: Starting 96 worker threads.
+[Sun Dec 15 06:47:15.486491 2024] [mpm_winnt:notice] [pid 9996:tid 409] AH00354: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 15 07:49:45.580931 2024] [mpm_winnt:warn] [pid 8978:tid 393] AH00098: Child: Starting 150 worker threads.
+[Sun Dec 15 08:17:20.248930 2024] [mpm_winnt:notice] [pid 22430:tid 381] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 15 09:20:13.567250 2024] [mpm_winnt:warn] [pid 16939:tid 391] AH00098: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sun Dec 15 10:39:38.662354 2024] [mpm_winnt:notice] [pid 18148:tid 349] AH02538: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sun Dec 15 10:51:35.306207 2024] [mpm_winnt:crit] [pid 1483:tid 351] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 15 18:55:04.492290 2024] [mpm_winnt:warn] [pid 14661:tid 348] AH00418: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 15 19:01:31.195526 2024] [mpm_winnt:warn] [pid 11620:tid 369] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Sun Dec 15 20:52:41.143064 2024] [mpm_winnt:notice] [pid 25732:tid 415] AH01909: Child: Parent process exited abruptly. Child process is ending
+[Sun Dec 15 21:47:26.384187 2024] [mpm_winnt:warn] [pid 10291:tid 364] AH00098: Parent: Created child process 11850
+[Mon Dec 16 06:11:11.784074 2024] [mpm_winnt:crit] [pid 10992:tid 399] AH02538: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Dec 16 06:55:16.082833 2024] [mpm_winnt:crit] [pid 18846:tid 366] AH00354: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Dec 16 07:03:43.669798 2024] [mpm_winnt:warn] [pid 23462:tid 398] AH02538: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 16 08:42:56.358149 2024] [mpm_winnt:notice] [pid 23051:tid 404] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Dec 16 09:45:24.127769 2024] [mpm_winnt:crit] [pid 12505:tid 341] AH00098: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Dec 16 09:47:11.130059 2024] [mpm_winnt:warn] [pid 14699:tid 357] AH00456: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Dec 16 10:13:13.878559 2024] [mpm_winnt:crit] [pid 14087:tid 411] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 16 11:39:01.803763 2024] [mpm_winnt:notice] [pid 29991:tid 348] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 16 11:46:37.003100 2024] [mpm_winnt:warn] [pid 2064:tid 363] AH00456: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Dec 16 16:27:42.640539 2024] [mpm_winnt:notice] [pid 12021:tid 379] AH00418: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 16 17:51:08.814599 2024] [mpm_winnt:notice] [pid 11052:tid 416] AH00456: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 16 18:40:49.179428 2024] [mpm_winnt:crit] [pid 9366:tid 350] AH01909: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Mon Dec 16 22:07:32.136107 2024] [mpm_winnt:crit] [pid 5438:tid 369] AH01909: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 17 00:06:45.270301 2024] [mpm_winnt:warn] [pid 26370:tid 352] AH02538: Child: Starting 128 worker threads.
+[Tue Dec 17 06:17:13.877228 2024] [mpm_winnt:warn] [pid 29602:tid 408] AH00418: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 17 07:10:27.738966 2024] [mpm_winnt:warn] [pid 1743:tid 371] AH02538: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 17 08:42:57.677670 2024] [mpm_winnt:notice] [pid 28773:tid 408] AH00455: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Tue Dec 17 09:23:22.492658 2024] [mpm_winnt:warn] [pid 8336:tid 357] AH00354: Parent: Created child process 7595
+[Tue Dec 17 09:43:48.475974 2024] [mpm_winnt:crit] [pid 16824:tid 362] AH00354: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Dec 17 12:18:03.565502 2024] [mpm_winnt:notice] [pid 1566:tid 390] AH00456: Child: Starting 200 worker threads.
+[Tue Dec 17 12:43:14.871308 2024] [mpm_winnt:warn] [pid 24046:tid 374] AH00455: Parent: Created child process 18418
+[Tue Dec 17 15:29:47.668627 2024] [mpm_winnt:crit] [pid 27252:tid 384] AH00354: Parent: Created child process 2129
+[Tue Dec 17 16:47:40.515724 2024] [mpm_winnt:warn] [pid 8100:tid 420] AH00354: Parent: Created child process 8464
+[Tue Dec 17 20:16:26.242074 2024] [mpm_winnt:warn] [pid 18708:tid 392] AH00354: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Dec 17 20:28:10.729278 2024] [mpm_winnt:warn] [pid 21927:tid 411] AH01909: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Tue Dec 17 22:00:28.359675 2024] [mpm_winnt:notice] [pid 20961:tid 344] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Tue Dec 17 23:06:54.739104 2024] [mpm_winnt:notice] [pid 23098:tid 355] AH00098: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Wed Dec 18 01:42:51.724984 2024] [mpm_winnt:crit] [pid 31342:tid 371] AH00455: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Wed Dec 18 07:17:18.877326 2024] [mpm_winnt:warn] [pid 28060:tid 413] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Wed Dec 18 07:30:20.122019 2024] [mpm_winnt:warn] [pid 23474:tid 386] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Wed Dec 18 10:37:52.767349 2024] [mpm_winnt:warn] [pid 16019:tid 389] AH00456: Parent: Created child process 22310
+[Wed Dec 18 12:11:28.207659 2024] [mpm_winnt:notice] [pid 24516:tid 418] AH00455: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 18 12:51:45.272647 2024] [mpm_winnt:crit] [pid 15019:tid 379] AH00418: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Wed Dec 18 13:16:00.867434 2024] [mpm_winnt:warn] [pid 15619:tid 376] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Wed Dec 18 14:49:55.644085 2024] [mpm_winnt:notice] [pid 1905:tid 402] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Wed Dec 18 15:36:53.685994 2024] [mpm_winnt:crit] [pid 4394:tid 389] AH00098: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Dec 18 18:56:10.629598 2024] [mpm_winnt:notice] [pid 31405:tid 420] AH00098: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 18 20:33:45.668807 2024] [mpm_winnt:crit] [pid 20377:tid 393] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Thu Dec 19 04:09:47.634675 2024] [mpm_winnt:notice] [pid 29475:tid 353] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 19 05:06:44.265789 2024] [mpm_winnt:warn] [pid 6628:tid 412] AH00455: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Dec 19 05:51:46.183891 2024] [mpm_winnt:notice] [pid 1055:tid 405] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Thu Dec 19 06:28:04.367748 2024] [mpm_winnt:notice] [pid 11940:tid 361] AH00354: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Dec 19 07:47:37.242523 2024] [mpm_winnt:crit] [pid 22435:tid 396] AH00094: Child: Starting 150 worker threads.
+[Thu Dec 19 10:16:00.541221 2024] [mpm_winnt:warn] [pid 29093:tid 372] AH00456: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Thu Dec 19 11:09:02.512636 2024] [mpm_winnt:warn] [pid 30240:tid 381] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 19 13:53:16.694498 2024] [mpm_winnt:warn] [pid 1036:tid 389] AH00094: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Dec 19 16:45:00.356599 2024] [mpm_winnt:notice] [pid 10351:tid 403] AH02538: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 19 18:38:00.048984 2024] [mpm_winnt:notice] [pid 14973:tid 358] AH00456: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Dec 19 19:59:14.232503 2024] [mpm_winnt:crit] [pid 13713:tid 369] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Thu Dec 19 21:23:54.153462 2024] [mpm_winnt:notice] [pid 9363:tid 358] AH00354: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Dec 20 00:36:39.801922 2024] [mpm_winnt:warn] [pid 18401:tid 400] AH00455: Parent: Created child process 21000
+[Fri Dec 20 05:28:43.187317 2024] [mpm_winnt:crit] [pid 26822:tid 352] AH00094: Child: Parent process exited abruptly. Child process is ending
+[Fri Dec 20 07:57:55.304618 2024] [mpm_winnt:notice] [pid 28092:tid 375] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Fri Dec 20 08:34:50.156449 2024] [mpm_winnt:warn] [pid 1726:tid 388] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Fri Dec 20 10:32:50.661693 2024] [mpm_winnt:crit] [pid 24271:tid 368] AH00418: Child: Starting 128 worker threads.
+[Fri Dec 20 15:20:31.434424 2024] [mpm_winnt:warn] [pid 5643:tid 406] AH00094: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Fri Dec 20 17:24:44.213332 2024] [mpm_winnt:notice] [pid 29907:tid 418] AH00094: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 20 19:08:28.754932 2024] [mpm_winnt:crit] [pid 14055:tid 378] AH00456: Child: Starting 150 worker threads.
+[Fri Dec 20 22:56:45.759612 2024] [mpm_winnt:crit] [pid 29270:tid 369] AH00418: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Fri Dec 20 23:33:42.405200 2024] [mpm_winnt:warn] [pid 11117:tid 388] AH00094: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Dec 20 23:38:45.615055 2024] [mpm_winnt:warn] [pid 20001:tid 420] AH02538: Parent: Created child process 16593
+[Sat Dec 21 01:02:13.270101 2024] [mpm_winnt:warn] [pid 7214:tid 356] AH00456: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 21 01:22:10.041813 2024] [mpm_winnt:crit] [pid 27021:tid 367] AH00354: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Sat Dec 21 01:23:00.748163 2024] [mpm_winnt:warn] [pid 9280:tid 412] AH02538: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sat Dec 21 05:55:59.119130 2024] [mpm_winnt:crit] [pid 7131:tid 345] AH01909: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Sat Dec 21 06:13:25.815430 2024] [mpm_winnt:notice] [pid 30752:tid 412] AH00354: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Dec 21 06:19:08.717888 2024] [mpm_winnt:crit] [pid 17319:tid 362] AH00098: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Dec 21 07:20:08.126320 2024] [mpm_winnt:notice] [pid 29695:tid 342] AH00418: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Dec 21 07:46:50.667368 2024] [mpm_winnt:crit] [pid 3147:tid 342] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 21 07:56:03.322528 2024] [mpm_winnt:notice] [pid 11821:tid 383] AH00354: Child: Starting 96 worker threads.
+[Sat Dec 21 08:57:58.569277 2024] [mpm_winnt:notice] [pid 24212:tid 341] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 21 09:16:22.111345 2024] [mpm_winnt:warn] [pid 25989:tid 406] AH00354: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Dec 21 11:06:35.093917 2024] [mpm_winnt:crit] [pid 11026:tid 364] AH00418: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Dec 21 11:55:56.131918 2024] [mpm_winnt:crit] [pid 9575:tid 415] AH00354: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 21 13:16:26.779708 2024] [mpm_winnt:notice] [pid 23915:tid 353] AH00098: Parent: Created child process 12996
+[Sat Dec 21 13:54:54.799731 2024] [mpm_winnt:crit] [pid 26202:tid 340] AH00418: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Dec 21 15:09:20.463933 2024] [mpm_winnt:notice] [pid 26590:tid 380] AH02538: Parent: Created child process 18163
+[Sat Dec 21 15:25:13.851714 2024] [mpm_winnt:notice] [pid 22610:tid 356] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Sat Dec 21 16:41:13.583743 2024] [mpm_winnt:warn] [pid 21028:tid 346] AH00456: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sat Dec 21 21:32:37.245529 2024] [mpm_winnt:warn] [pid 17446:tid 381] FATAL ERROR: Memory allocation failed in mpm_winnt module.
+[Sun Dec 22 02:28:03.272353 2024] [mpm_winnt:notice] [pid 30909:tid 353] AH00094: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 22 03:22:33.527011 2024] [mpm_winnt:crit] [pid 9773:tid 369] AH01909: Child: Starting 96 worker threads.
+[Sun Dec 22 06:57:48.180774 2024] [mpm_winnt:crit] [pid 4378:tid 381] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 22 07:53:22.277748 2024] [mpm_winnt:warn] [pid 24067:tid 345] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 22 17:20:52.705864 2024] [mpm_winnt:crit] [pid 30436:tid 394] AH00456: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Sun Dec 22 17:23:01.872723 2024] [mpm_winnt:crit] [pid 25690:tid 409] AH00354: Parent: Created child process 23721
+[Sun Dec 22 17:49:40.611828 2024] [mpm_winnt:crit] [pid 23155:tid 411] AH00418: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 22 19:04:07.412889 2024] [mpm_winnt:notice] [pid 6333:tid 408] AH02538: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Sun Dec 22 19:28:08.243397 2024] [mpm_winnt:crit] [pid 28361:tid 351] AH02538: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sun Dec 22 20:23:16.511068 2024] [mpm_winnt:crit] [pid 20942:tid 356] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sun Dec 22 21:12:02.052508 2024] [mpm_winnt:crit] [pid 26960:tid 346] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Dec 23 03:55:07.761731 2024] [mpm_winnt:crit] [pid 27187:tid 382] AH00456: Child: Parent process exited abruptly. Child process is ending
+[Mon Dec 23 04:14:12.372874 2024] [mpm_winnt:crit] [pid 15759:tid 363] AH00354: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 23 07:08:31.113129 2024] [mpm_winnt:crit] [pid 20342:tid 403] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Mon Dec 23 08:25:35.267856 2024] [mpm_winnt:warn] [pid 27153:tid 367] AH00094: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 23 09:51:09.683376 2024] [mpm_winnt:warn] [pid 17489:tid 381] AH00455: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Dec 23 12:49:31.774538 2024] [mpm_winnt:notice] [pid 14837:tid 413] AH01909: Child: Parent process exited abruptly. Child process is ending
+[Mon Dec 23 13:04:42.476830 2024] [mpm_winnt:crit] [pid 23484:tid 383] AH00354: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Mon Dec 23 13:06:49.463673 2024] [mpm_winnt:crit] [pid 24378:tid 381] AH00354: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 23 13:29:34.271617 2024] [mpm_winnt:crit] [pid 11580:tid 353] AH00418: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Mon Dec 23 14:20:47.274824 2024] [mpm_winnt:notice] [pid 21824:tid 350] AH00094: Parent: Created child process 9021
+[Mon Dec 23 14:51:20.153014 2024] [mpm_winnt:crit] [pid 15960:tid 390] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 23 17:23:22.025319 2024] [mpm_winnt:warn] [pid 12982:tid 345] AH00094: Parent: Created child process 23357
+[Mon Dec 23 19:37:16.382189 2024] [mpm_winnt:warn] [pid 31170:tid 365] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Tue Dec 24 00:23:09.568902 2024] [mpm_winnt:crit] [pid 22905:tid 380] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Dec 24 00:23:20.242821 2024] [mpm_winnt:warn] [pid 2229:tid 359] AH02538: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 24 03:34:38.426476 2024] [mpm_winnt:warn] [pid 17925:tid 365] AH00094: Child: Parent process exited abruptly. Child process is ending
+[Tue Dec 24 08:52:23.669913 2024] [mpm_winnt:notice] [pid 28283:tid 413] AH01909: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Dec 24 15:20:49.708005 2024] [mpm_winnt:notice] [pid 27828:tid 360] AH00098: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Dec 24 17:47:00.290220 2024] [mpm_winnt:crit] [pid 16489:tid 408] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 24 21:39:34.271596 2024] [mpm_winnt:crit] [pid 25431:tid 351] AH00354: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 24 22:34:48.274330 2024] [mpm_winnt:crit] [pid 19977:tid 370] AH02538: Child: Starting 96 worker threads.
+[Tue Dec 24 22:47:54.223261 2024] [mpm_winnt:crit] [pid 8138:tid 411] AH01909: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 25 00:01:31.405124 2024] [mpm_winnt:notice] [pid 2444:tid 364] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Wed Dec 25 01:08:10.181730 2024] [mpm_winnt:crit] [pid 6912:tid 346] AH00455: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Dec 25 01:31:32.688470 2024] [mpm_winnt:notice] [pid 31187:tid 408] AH00354: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Dec 25 02:44:05.244664 2024] [mpm_winnt:notice] [pid 6567:tid 346] AH00455: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Wed Dec 25 03:59:13.531113 2024] [mpm_winnt:crit] [pid 23460:tid 361] AH00354: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 25 06:26:38.220150 2024] [mpm_winnt:notice] [pid 28393:tid 382] AH02538: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 25 06:59:50.873353 2024] [mpm_winnt:notice] [pid 2335:tid 369] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Wed Dec 25 07:19:26.143913 2024] [mpm_winnt:notice] [pid 20125:tid 347] AH00418: Parent: Created child process 18517
+[Wed Dec 25 09:03:50.066528 2024] [mpm_winnt:warn] [pid 29457:tid 365] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 25 09:53:34.535306 2024] [mpm_winnt:notice] [pid 30210:tid 410] AH00354: Child: Starting 128 worker threads.
+[Wed Dec 25 10:36:29.347671 2024] [mpm_winnt:crit] [pid 5188:tid 398] AH00456: Child: Starting 150 worker threads.
+[Wed Dec 25 13:11:10.346766 2024] [mpm_winnt:warn] [pid 21197:tid 403] AH01909: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 25 13:15:44.072339 2024] [mpm_winnt:notice] [pid 19862:tid 374] AH00456: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Dec 25 14:36:14.849244 2024] [mpm_winnt:warn] [pid 14890:tid 377] AH00098: Child: Starting 200 worker threads.
+[Wed Dec 25 15:27:20.663181 2024] [mpm_winnt:warn] [pid 31671:tid 370] AH00098: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Dec 25 17:21:04.067921 2024] [mpm_winnt:warn] [pid 10177:tid 380] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 25 17:45:39.628775 2024] [mpm_winnt:notice] [pid 31690:tid 370] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 25 21:50:07.238539 2024] [mpm_winnt:warn] [pid 23273:tid 355] AH00354: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 25 22:07:04.529100 2024] [mpm_winnt:crit] [pid 19022:tid 419] AH00456: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Dec 26 00:29:32.833948 2024] [mpm_winnt:notice] [pid 13930:tid 407] AH00354: Parent: Created child process 5005
+[Thu Dec 26 01:51:40.826730 2024] [mpm_winnt:warn] [pid 6541:tid 392] AH00456: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 26 02:43:30.130697 2024] [mpm_winnt:warn] [pid 17090:tid 397] AH01909: Child: Starting 128 worker threads.
+[Thu Dec 26 02:59:41.500016 2024] [mpm_winnt:crit] [pid 14445:tid 385] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Thu Dec 26 03:36:03.123951 2024] [mpm_winnt:warn] [pid 23029:tid 350] AH00094: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Dec 26 07:27:49.496112 2024] [mpm_winnt:notice] [pid 21221:tid 416] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 26 07:30:41.170698 2024] [mpm_winnt:crit] [pid 23305:tid 358] AH01909: Child: Starting 96 worker threads.
+[Thu Dec 26 07:31:24.523445 2024] [mpm_winnt:notice] [pid 20888:tid 355] AH00094: Child: Parent process exited abruptly. Child process is ending
+[Thu Dec 26 10:50:45.507702 2024] [mpm_winnt:notice] [pid 15543:tid 357] AH00418: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 26 13:45:51.851303 2024] [mpm_winnt:notice] [pid 9096:tid 403] AH00098: Parent: Created child process 20243
+[Thu Dec 26 13:48:09.278814 2024] [mpm_winnt:crit] [pid 27631:tid 353] AH00094: Child: Parent process exited abruptly. Child process is ending
+[Thu Dec 26 13:58:24.531068 2024] [mpm_winnt:notice] [pid 24986:tid 341] AH00455: Parent: Created child process 16216
+[Thu Dec 26 15:53:35.151351 2024] [mpm_winnt:notice] [pid 10313:tid 355] AH00418: Parent: Created child process 29037
+[Thu Dec 26 19:09:32.630526 2024] [mpm_winnt:notice] [pid 17661:tid 386] AH02538: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Fri Dec 27 01:00:57.314703 2024] [mpm_winnt:crit] [pid 11932:tid 410] AH02538: Parent: Created child process 3460
+[Fri Dec 27 02:32:29.284831 2024] [mpm_winnt:crit] [pid 3137:tid 390] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 27 02:34:26.600272 2024] [mpm_winnt:warn] [pid 4942:tid 353] AH00094: Parent: Created child process 23283
+[Fri Dec 27 05:15:24.148916 2024] [mpm_winnt:warn] [pid 7901:tid 344] AH00354: Parent: Created child process 21489
+[Fri Dec 27 10:11:01.095909 2024] [mpm_winnt:crit] [pid 6294:tid 355] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Fri Dec 27 11:38:24.402940 2024] [mpm_winnt:warn] [pid 23434:tid 400] AH01909: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 27 12:16:32.848159 2024] [mpm_winnt:warn] [pid 22835:tid 406] AH00455: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Dec 27 12:35:32.896907 2024] [mpm_winnt:crit] [pid 29948:tid 415] AH00354: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Dec 27 17:18:29.641388 2024] [mpm_winnt:warn] [pid 8260:tid 389] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Fri Dec 27 18:26:16.146296 2024] [mpm_winnt:crit] [pid 9338:tid 355] AH00418: Child: Starting 200 worker threads.
+[Fri Dec 27 18:27:16.846392 2024] [mpm_winnt:crit] [pid 6760:tid 398] AH01909: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 27 21:42:47.201310 2024] [mpm_winnt:warn] [pid 23047:tid 345] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Fri Dec 27 22:47:37.244676 2024] [mpm_winnt:crit] [pid 28456:tid 355] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Sat Dec 28 00:29:31.472888 2024] [mpm_winnt:crit] [pid 12161:tid 386] AH00456: Child: Parent process exited abruptly. Child process is ending
+[Sat Dec 28 03:47:11.175591 2024] [mpm_winnt:warn] [pid 26933:tid 363] AH00354: Parent: Created child process 15687
+[Sat Dec 28 04:35:43.879206 2024] [mpm_winnt:warn] [pid 28134:tid 395] AH00354: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sat Dec 28 06:44:06.622305 2024] [mpm_winnt:notice] [pid 18071:tid 404] AH00418: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 28 06:46:31.882179 2024] [mpm_winnt:notice] [pid 10545:tid 397] AH00455: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Dec 28 10:08:21.077405 2024] [mpm_winnt:warn] [pid 16756:tid 345] AH00455: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 28 10:24:56.847731 2024] [mpm_winnt:warn] [pid 12281:tid 352] AH00456: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sat Dec 28 11:11:36.714054 2024] [mpm_winnt:warn] [pid 23069:tid 383] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Sat Dec 28 13:42:27.035296 2024] [mpm_winnt:warn] [pid 17805:tid 396] AH00455: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Dec 28 15:36:04.704602 2024] [mpm_winnt:crit] [pid 17870:tid 408] AH00354: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 28 16:43:30.007756 2024] [mpm_winnt:crit] [pid 4496:tid 410] AH01909: Child: Starting 200 worker threads.
+[Sat Dec 28 17:06:36.299329 2024] [mpm_winnt:crit] [pid 19705:tid 369] AH00456: Parent: Created child process 22470
+[Sat Dec 28 18:19:45.591570 2024] [mpm_winnt:warn] [pid 14513:tid 391] AH00418: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 28 19:54:33.615855 2024] [mpm_winnt:warn] [pid 1868:tid 365] AH00418: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Dec 28 20:45:11.167398 2024] [mpm_winnt:warn] [pid 22928:tid 372] AH02538: Parent: Created child process 1357
+[Sat Dec 28 22:37:04.639057 2024] [mpm_winnt:notice] [pid 5180:tid 356] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Sat Dec 28 23:53:25.377614 2024] [mpm_winnt:notice] [pid 23493:tid 379] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Sun Dec 29 06:41:40.812822 2024] [mpm_winnt:crit] [pid 4041:tid 375] AH00094: Parent: Created child process 6757
+[Sun Dec 29 10:55:35.822132 2024] [mpm_winnt:crit] [pid 20687:tid 367] AH01909: Child: Starting 128 worker threads.
+[Sun Dec 29 11:43:25.694216 2024] [mpm_winnt:notice] [pid 29708:tid 384] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sun Dec 29 15:45:16.076580 2024] [mpm_winnt:notice] [pid 2211:tid 356] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 29 17:42:50.114201 2024] [mpm_winnt:notice] [pid 11597:tid 389] AH00455: Parent: Created child process 5547
+[Mon Dec 30 01:31:51.578364 2024] [mpm_winnt:notice] [pid 21174:tid 378] AH00456: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 30 02:49:56.808869 2024] [mpm_winnt:notice] [pid 13480:tid 376] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 30 04:05:03.430340 2024] [mpm_winnt:notice] [pid 26176:tid 380] AH00094: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 30 06:25:39.429437 2024] [mpm_winnt:warn] [pid 19842:tid 400] AH00354: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 30 09:16:37.383606 2024] [mpm_winnt:notice] [pid 1818:tid 398] AH00094: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Mon Dec 30 11:56:44.367200 2024] [mpm_winnt:crit] [pid 30859:tid 343] AH01909: Parent: Created child process 12498
+[Mon Dec 30 13:13:21.138194 2024] [mpm_winnt:warn] [pid 18342:tid 345] AH02538: Child: Starting 150 worker threads.
+[Mon Dec 30 16:11:39.263728 2024] [mpm_winnt:warn] [pid 11212:tid 408] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Mon Dec 30 16:45:22.803262 2024] [mpm_winnt:notice] [pid 7501:tid 412] AH00455: Parent: Created child process 25605
+[Mon Dec 30 19:15:56.342104 2024] [mpm_winnt:warn] [pid 15337:tid 354] AH00354: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 30 21:32:34.375339 2024] [mpm_winnt:warn] [pid 30976:tid 378] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 31 00:07:51.322473 2024] [mpm_winnt:notice] [pid 19690:tid 357] AH00455: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Dec 31 02:45:41.546575 2024] [mpm_winnt:notice] [pid 9612:tid 413] AH01909: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 31 03:32:39.698608 2024] [mpm_winnt:crit] [pid 30118:tid 375] AH00094: Parent: Created child process 5254
+[Tue Dec 31 07:38:55.799224 2024] [mpm_winnt:warn] [pid 23809:tid 346] CRITICAL ERROR: Apache service crashed unexpectedly.
+[Tue Dec 31 08:26:38.630087 2024] [mpm_winnt:crit] [pid 12820:tid 411] AH00418: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Dec 31 08:41:05.307521 2024] [mpm_winnt:notice] [pid 16224:tid 391] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 31 09:05:55.357456 2024] [mpm_winnt:warn] [pid 5242:tid 402] AH00455: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Tue Dec 31 13:22:48.243655 2024] [mpm_winnt:warn] [pid 8964:tid 403] AH02538: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Tue Dec 31 14:36:45.507347 2024] [mpm_winnt:warn] [pid 12475:tid 395] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 31 14:39:27.151919 2024] [mpm_winnt:warn] [pid 17051:tid 345] AH00094: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Tue Dec 31 16:05:20.301617 2024] [mpm_winnt:warn] [pid 16904:tid 405] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Tue Dec 31 16:15:00.352207 2024] [mpm_winnt:crit] [pid 26384:tid 407] AH00418: Parent: Created child process 14497
+[Tue Dec 31 16:48:28.608918 2024] [mpm_winnt:warn] [pid 16481:tid 392] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Tue Dec 31 19:06:49.153122 2024] [mpm_winnt:notice] [pid 12827:tid 416] AH02538: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Tue Dec 31 19:37:43.529376 2024] [mpm_winnt:notice] [pid 4444:tid 414] AH00456: Child: Parent process exited abruptly. Child process is ending
+[Tue Dec 31 21:29:28.777279 2024] [mpm_winnt:crit] [pid 26817:tid 366] AH02538: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Wed Jan 01 07:22:27.639110 2025] [mpm_winnt:crit] [pid 11566:tid 401] AH00098: Parent: Created child process 22230
+[Wed Jan 01 07:30:09.857770 2025] [mpm_winnt:warn] [pid 9906:tid 390] AH00094: Parent: Created child process 4017
+[Wed Jan 01 08:53:36.395367 2025] [mpm_winnt:crit] [pid 22361:tid 405] AH00354: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Jan 01 09:54:32.590765 2025] [mpm_winnt:crit] [pid 11079:tid 351] AH00418: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Wed Jan 01 10:11:25.628271 2025] [mpm_winnt:warn] [pid 22822:tid 372] AH01909: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Wed Jan 01 10:37:22.888043 2025] [mpm_winnt:notice] [pid 1551:tid 365] AH00094: Child: Starting 200 worker threads.
+[Wed Jan 01 10:43:06.756718 2025] [mpm_winnt:warn] [pid 24192:tid 372] AH00456: Child: Starting 200 worker threads.
+[Wed Jan 01 11:14:25.144946 2025] [mpm_winnt:notice] [pid 3049:tid 394] AH00455: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Jan 01 12:12:59.221340 2025] [mpm_winnt:warn] [pid 2099:tid 375] AH00418: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Jan 01 12:28:08.499505 2025] [mpm_winnt:warn] [pid 3974:tid 345] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Wed Jan 01 13:45:00.498312 2025] [mpm_winnt:notice] [pid 7192:tid 343] AH00094: Child: Starting 200 worker threads.
+[Wed Jan 01 14:09:56.670623 2025] [mpm_winnt:notice] [pid 25903:tid 345] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 01 15:42:43.521279 2025] [mpm_winnt:crit] [pid 16173:tid 388] AH01909: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 01 16:36:56.709024 2025] [mpm_winnt:crit] [pid 10715:tid 390] AH00418: Child: Starting 96 worker threads.
+[Wed Jan 01 22:30:54.187754 2025] [mpm_winnt:crit] [pid 18566:tid 418] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Thu Jan 02 00:05:27.239802 2025] [mpm_winnt:notice] [pid 26516:tid 415] AH00455: Parent: Created child process 29116
+[Thu Jan 02 00:16:36.164101 2025] [mpm_winnt:warn] [pid 26018:tid 388] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Thu Jan 02 00:52:47.198427 2025] [mpm_winnt:warn] [pid 2356:tid 401] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Jan 02 01:38:24.876871 2025] [mpm_winnt:warn] [pid 6188:tid 388] AH02538: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Jan 02 05:08:43.159778 2025] [mpm_winnt:notice] [pid 27541:tid 415] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 02 05:14:09.240797 2025] [mpm_winnt:warn] [pid 25179:tid 399] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 02 06:19:24.667542 2025] [mpm_winnt:notice] [pid 5742:tid 419] AH00455: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 02 06:45:07.784290 2025] [mpm_winnt:warn] [pid 24773:tid 418] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 02 07:45:53.091654 2025] [mpm_winnt:crit] [pid 24733:tid 386] AH02538: Child: Starting 200 worker threads.
+[Thu Jan 02 11:10:51.775129 2025] [mpm_winnt:crit] [pid 27209:tid 399] AH00098: Child: Starting 64 worker threads.
+[Thu Jan 02 20:37:55.137531 2025] [mpm_winnt:notice] [pid 1492:tid 417] AH00098: Parent: Created child process 29872
+[Thu Jan 02 21:55:09.893504 2025] [mpm_winnt:warn] [pid 7242:tid 363] AH00354: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Jan 02 23:10:08.455633 2025] [mpm_winnt:warn] [pid 3944:tid 380] AH00354: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Jan 03 00:33:23.670092 2025] [mpm_winnt:notice] [pid 16045:tid 399] AH00098: Parent: Created child process 1870
+[Fri Jan 03 01:14:10.592373 2025] [mpm_winnt:crit] [pid 7474:tid 362] AH00354: Parent: Created child process 16476
+[Fri Jan 03 02:12:37.417555 2025] [mpm_winnt:crit] [pid 23411:tid 347] AH00455: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 03 02:39:22.354268 2025] [mpm_winnt:notice] [pid 22547:tid 410] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 03 04:46:38.665050 2025] [mpm_winnt:notice] [pid 23505:tid 374] AH00354: Parent: Created child process 27248
+[Fri Jan 03 04:55:27.253405 2025] [mpm_winnt:crit] [pid 16515:tid 418] AH00455: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Fri Jan 03 05:13:59.720771 2025] [mpm_winnt:notice] [pid 25152:tid 383] AH00455: Parent: Created child process 4013
+[Fri Jan 03 05:50:13.849603 2025] [mpm_winnt:warn] [pid 7207:tid 340] AH00354: Parent: Created child process 6259
+[Fri Jan 03 08:07:36.493663 2025] [mpm_winnt:notice] [pid 6175:tid 355] AH00094: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 03 12:25:47.638567 2025] [mpm_winnt:notice] [pid 3319:tid 354] AH02538: Child: Starting 150 worker threads.
+[Fri Jan 03 12:47:58.770039 2025] [mpm_winnt:crit] [pid 29109:tid 376] AH02538: Child: Starting 200 worker threads.
+[Fri Jan 03 14:43:08.219512 2025] [mpm_winnt:crit] [pid 8675:tid 362] FATAL ERROR: Memory allocation failed in mpm_winnt module.
+[Fri Jan 03 16:41:49.231266 2025] [mpm_winnt:warn] [pid 2340:tid 348] AH01909: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 03 17:18:11.222978 2025] [mpm_winnt:crit] [pid 4862:tid 377] AH01909: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 04 04:26:29.816360 2025] [mpm_winnt:crit] [pid 6251:tid 356] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 04 09:39:07.028025 2025] [mpm_winnt:notice] [pid 12325:tid 363] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Sat Jan 04 10:09:12.177839 2025] [mpm_winnt:notice] [pid 10723:tid 362] AH00455: Child: Starting 200 worker threads.
+[Sat Jan 04 12:04:10.419736 2025] [mpm_winnt:crit] [pid 16951:tid 367] AH00354: Child: Starting 96 worker threads.
+[Sat Jan 04 13:34:10.776303 2025] [mpm_winnt:notice] [pid 7145:tid 414] AH00354: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sat Jan 04 13:53:58.488544 2025] [mpm_winnt:notice] [pid 3962:tid 350] AH02538: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sat Jan 04 14:29:58.004499 2025] [mpm_winnt:notice] [pid 3215:tid 364] AH02538: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Jan 04 14:48:04.625616 2025] [mpm_winnt:warn] [pid 5031:tid 383] AH01909: Parent: Created child process 14150
+[Sat Jan 04 15:51:06.463827 2025] [mpm_winnt:warn] [pid 29993:tid 398] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Jan 04 22:05:56.444434 2025] [mpm_winnt:crit] [pid 27116:tid 358] AH00418: Child: Starting 128 worker threads.
+[Sat Jan 04 23:41:46.293868 2025] [mpm_winnt:warn] [pid 4946:tid 370] AH00455: Parent: Created child process 23663
+[Sun Jan 05 00:21:57.518381 2025] [mpm_winnt:warn] [pid 12056:tid 364] AH00094: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Sun Jan 05 00:47:47.434964 2025] [mpm_winnt:notice] [pid 2429:tid 366] AH00456: Child: Starting 64 worker threads.
+[Sun Jan 05 00:55:12.210255 2025] [mpm_winnt:crit] [pid 26021:tid 366] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Sun Jan 05 02:54:56.335005 2025] [mpm_winnt:warn] [pid 11028:tid 383] AH00098: Parent: Created child process 7442
+[Sun Jan 05 08:16:46.201058 2025] [mpm_winnt:warn] [pid 23076:tid 397] AH00455: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 05 10:50:21.322469 2025] [mpm_winnt:notice] [pid 17474:tid 344] AH01909: Child: Starting 128 worker threads.
+[Sun Jan 05 12:25:21.595323 2025] [mpm_winnt:crit] [pid 29733:tid 393] AH01909: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 05 14:23:22.597378 2025] [mpm_winnt:warn] [pid 9874:tid 369] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Sun Jan 05 15:33:18.467211 2025] [mpm_winnt:warn] [pid 12906:tid 374] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 05 17:23:54.044404 2025] [mpm_winnt:crit] [pid 19205:tid 390] AH00094: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 05 19:50:09.575646 2025] [mpm_winnt:crit] [pid 20810:tid 359] AH00418: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sun Jan 05 20:40:26.352979 2025] [mpm_winnt:notice] [pid 21387:tid 369] AH00456: Parent: Created child process 19930
+[Sun Jan 05 21:41:51.597825 2025] [mpm_winnt:crit] [pid 4883:tid 410] AH00354: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 05 22:20:10.213861 2025] [mpm_winnt:notice] [pid 2932:tid 418] AH00418: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Sun Jan 05 22:43:23.437975 2025] [mpm_winnt:notice] [pid 12738:tid 414] AH01909: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sun Jan 05 23:19:23.312602 2025] [mpm_winnt:notice] [pid 31208:tid 353] AH00354: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 06 00:06:43.810111 2025] [mpm_winnt:notice] [pid 22971:tid 375] AH01909: Child: Parent process exited abruptly. Child process is ending
+[Mon Jan 06 01:15:39.041919 2025] [mpm_winnt:warn] [pid 13595:tid 360] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Mon Jan 06 02:27:12.652662 2025] [mpm_winnt:warn] [pid 26680:tid 405] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 06 06:34:25.643657 2025] [mpm_winnt:notice] [pid 19533:tid 385] AH01909: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 06 07:16:56.764159 2025] [mpm_winnt:notice] [pid 22472:tid 406] AH00094: Parent: Created child process 8605
+[Mon Jan 06 08:12:29.589711 2025] [mpm_winnt:notice] [pid 23460:tid 361] AH00094: Parent: Created child process 21880
+[Mon Jan 06 08:16:28.073151 2025] [mpm_winnt:warn] [pid 19152:tid 385] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Mon Jan 06 12:55:42.210240 2025] [mpm_winnt:crit] [pid 27806:tid 364] AH00455: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Jan 06 13:21:44.178919 2025] [mpm_winnt:notice] [pid 26001:tid 391] AH00094: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Jan 06 15:14:36.573950 2025] [mpm_winnt:notice] [pid 8547:tid 413] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 06 15:45:58.680488 2025] [mpm_winnt:warn] [pid 14804:tid 359] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Jan 06 19:29:54.252396 2025] [mpm_winnt:crit] [pid 6448:tid 382] AH01909: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 06 21:15:01.412436 2025] [mpm_winnt:crit] [pid 12714:tid 343] AH01909: Child: Parent process exited abruptly. Child process is ending
+[Tue Jan 07 01:26:12.358709 2025] [mpm_winnt:crit] [pid 29659:tid 375] AH00456: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 07 01:45:41.551502 2025] [mpm_winnt:crit] [pid 16643:tid 351] AH02538: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Tue Jan 07 02:13:08.155346 2025] [mpm_winnt:warn] [pid 30227:tid 418] AH01909: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Tue Jan 07 05:16:07.317460 2025] [mpm_winnt:notice] [pid 28226:tid 380] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Tue Jan 07 05:42:18.413696 2025] [mpm_winnt:crit] [pid 10909:tid 350] AH00456: Parent: Created child process 23038
+[Tue Jan 07 09:35:05.566438 2025] [mpm_winnt:crit] [pid 17391:tid 412] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Tue Jan 07 09:47:43.220129 2025] [mpm_winnt:warn] [pid 2463:tid 398] AH00456: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Tue Jan 07 10:37:32.253252 2025] [mpm_winnt:crit] [pid 31319:tid 400] AH00418: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Tue Jan 07 10:42:06.359571 2025] [mpm_winnt:crit] [pid 24886:tid 420] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 07 11:04:15.247776 2025] [mpm_winnt:notice] [pid 23364:tid 415] AH00094: Child: Starting 96 worker threads.
+[Tue Jan 07 12:31:24.778171 2025] [mpm_winnt:notice] [pid 5829:tid 396] AH00094: Child: Parent process exited abruptly. Child process is ending
+[Tue Jan 07 13:32:56.716200 2025] [mpm_winnt:warn] [pid 19169:tid 348] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Tue Jan 07 15:57:51.105199 2025] [mpm_winnt:warn] [pid 1578:tid 410] AH00418: Parent: Created child process 19193
+[Tue Jan 07 20:12:23.690734 2025] [mpm_winnt:warn] [pid 3082:tid 363] AH00456: Child: Starting 96 worker threads.
+[Tue Jan 07 20:12:45.161095 2025] [mpm_winnt:warn] [pid 12020:tid 362] AH00455: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 07 23:24:49.834608 2025] [mpm_winnt:crit] [pid 22631:tid 384] AH02538: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Tue Jan 07 23:34:04.530198 2025] [mpm_winnt:warn] [pid 12258:tid 348] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 08 01:03:42.431773 2025] [mpm_winnt:warn] [pid 22557:tid 378] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 08 01:08:32.575908 2025] [mpm_winnt:notice] [pid 7674:tid 344] AH00418: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Jan 08 04:20:11.479523 2025] [mpm_winnt:warn] [pid 26292:tid 389] AH01909: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Wed Jan 08 07:14:27.864560 2025] [mpm_winnt:notice] [pid 20255:tid 380] AH01909: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Wed Jan 08 07:34:22.523548 2025] [mpm_winnt:notice] [pid 15949:tid 341] AH01909: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Jan 08 08:08:21.313896 2025] [mpm_winnt:notice] [pid 25563:tid 385] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 08 10:19:11.802488 2025] [mpm_winnt:notice] [pid 2180:tid 364] AH00354: Parent: Created child process 16666
+[Wed Jan 08 11:27:30.165717 2025] [mpm_winnt:warn] [pid 20664:tid 399] AH01909: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Jan 08 11:37:39.303195 2025] [mpm_winnt:crit] [pid 27010:tid 404] FATAL ERROR: Memory allocation failed in mpm_winnt module.
+[Wed Jan 08 13:56:56.342722 2025] [mpm_winnt:warn] [pid 9890:tid 401] AH00098: Child: Starting 200 worker threads.
+[Wed Jan 08 15:02:11.309492 2025] [mpm_winnt:warn] [pid 31379:tid 394] AH00094: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Jan 08 15:38:20.011255 2025] [mpm_winnt:crit] [pid 18056:tid 379] AH00418: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 08 16:15:50.110372 2025] [mpm_winnt:notice] [pid 9359:tid 397] AH00455: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Jan 08 16:43:47.370933 2025] [mpm_winnt:notice] [pid 5983:tid 354] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Wed Jan 08 21:15:25.029033 2025] [mpm_winnt:notice] [pid 15861:tid 394] AH00098: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Jan 08 23:55:04.457293 2025] [mpm_winnt:crit] [pid 20344:tid 375] AH00094: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Jan 09 00:17:15.674754 2025] [mpm_winnt:warn] [pid 14010:tid 420] AH00354: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Jan 09 00:43:35.070577 2025] [mpm_winnt:notice] [pid 20302:tid 400] AH00455: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 09 01:58:56.279573 2025] [mpm_winnt:crit] [pid 6349:tid 391] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Thu Jan 09 02:09:18.672605 2025] [mpm_winnt:notice] [pid 13047:tid 373] AH00354: Parent: Created child process 11087
+[Thu Jan 09 03:08:05.689781 2025] [mpm_winnt:notice] [pid 13831:tid 373] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Thu Jan 09 05:28:43.572086 2025] [mpm_winnt:warn] [pid 15432:tid 400] AH00354: Child: Starting 96 worker threads.
+[Thu Jan 09 08:00:53.650396 2025] [mpm_winnt:notice] [pid 21660:tid 418] AH01909: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Jan 09 08:53:15.082619 2025] [mpm_winnt:warn] [pid 13362:tid 377] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 09 13:02:19.288961 2025] [mpm_winnt:crit] [pid 7220:tid 372] AH00098: Parent: Created child process 27848
+[Thu Jan 09 15:40:32.290384 2025] [mpm_winnt:warn] [pid 17758:tid 400] AH01909: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 09 16:16:39.203383 2025] [mpm_winnt:warn] [pid 21494:tid 354] AH00456: Parent: Created child process 25680
+[Thu Jan 09 18:59:06.432456 2025] [mpm_winnt:notice] [pid 6522:tid 360] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 09 20:25:59.682854 2025] [mpm_winnt:crit] [pid 7436:tid 410] AH00094: Parent: Created child process 25123
+[Fri Jan 10 00:16:51.199345 2025] [mpm_winnt:warn] [pid 28735:tid 356] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 10 00:33:55.392476 2025] [mpm_winnt:notice] [pid 3143:tid 375] AH00354: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 10 04:51:17.668174 2025] [mpm_winnt:crit] [pid 22911:tid 379] AH00418: Child: Starting 64 worker threads.
+[Fri Jan 10 05:55:05.643981 2025] [mpm_winnt:warn] [pid 5718:tid 409] AH00456: Parent: Created child process 9671
+[Fri Jan 10 08:33:06.427503 2025] [mpm_winnt:crit] [pid 11127:tid 401] AH01909: Parent: Created child process 24797
+[Fri Jan 10 14:14:20.219364 2025] [mpm_winnt:notice] [pid 27390:tid 377] AH00354: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Jan 10 17:15:54.157918 2025] [mpm_winnt:warn] [pid 25875:tid 348] AH00354: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Jan 10 19:10:25.320286 2025] [mpm_winnt:warn] [pid 20695:tid 389] AH00456: Child: Parent process exited abruptly. Child process is ending
+[Fri Jan 10 21:38:30.266680 2025] [mpm_winnt:notice] [pid 15749:tid 375] AH02538: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 10 23:41:57.588733 2025] [mpm_winnt:warn] [pid 30117:tid 358] AH00455: Child: Starting 150 worker threads.
+[Sat Jan 11 04:47:17.230906 2025] [mpm_winnt:warn] [pid 31460:tid 397] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sat Jan 11 11:37:08.263354 2025] [mpm_winnt:notice] [pid 1654:tid 355] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 11 11:49:16.615526 2025] [mpm_winnt:crit] [pid 14575:tid 362] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sat Jan 11 13:47:42.844376 2025] [mpm_winnt:warn] [pid 12004:tid 398] AH02538: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Jan 11 14:51:16.487885 2025] [mpm_winnt:warn] [pid 20233:tid 387] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Sat Jan 11 15:47:28.133723 2025] [mpm_winnt:warn] [pid 4565:tid 412] AH01909: Child: Parent process exited abruptly. Child process is ending
+[Sat Jan 11 16:06:10.319643 2025] [mpm_winnt:crit] [pid 20920:tid 402] AH00456: Parent: Created child process 19318
+[Sat Jan 11 16:11:56.043469 2025] [mpm_winnt:crit] [pid 2795:tid 340] AH01909: Child: Parent process exited abruptly. Child process is ending
+[Sat Jan 11 16:55:13.891406 2025] [mpm_winnt:warn] [pid 17510:tid 347] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Sat Jan 11 17:27:18.474213 2025] [mpm_winnt:notice] [pid 6862:tid 412] AH00094: Child: Starting 128 worker threads.
+[Sat Jan 11 22:32:46.111780 2025] [mpm_winnt:notice] [pid 12535:tid 374] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Sun Jan 12 03:48:31.898847 2025] [mpm_winnt:warn] [pid 13050:tid 410] AH00456: Child: Parent process exited abruptly. Child process is ending
+[Sun Jan 12 05:11:51.400640 2025] [mpm_winnt:crit] [pid 4815:tid 345] FATAL ERROR: Memory allocation failed in mpm_winnt module.
+[Sun Jan 12 06:31:13.695034 2025] [mpm_winnt:notice] [pid 5358:tid 349] AH01909: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 12 08:02:43.183484 2025] [mpm_winnt:crit] [pid 17789:tid 370] AH00354: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Jan 12 11:52:41.264851 2025] [mpm_winnt:warn] [pid 15489:tid 410] AH00418: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 12 13:03:33.386807 2025] [mpm_winnt:warn] [pid 21750:tid 365] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Sun Jan 12 17:00:05.328896 2025] [mpm_winnt:warn] [pid 21118:tid 343] AH00354: Parent: Created child process 14001
+[Sun Jan 12 17:56:10.071091 2025] [mpm_winnt:notice] [pid 12198:tid 395] AH00455: Parent: Created child process 18806
+[Sun Jan 12 20:28:12.153466 2025] [mpm_winnt:notice] [pid 15461:tid 388] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 12 22:06:51.576502 2025] [mpm_winnt:notice] [pid 12487:tid 346] AH00418: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Jan 12 22:54:00.759810 2025] [mpm_winnt:warn] [pid 18018:tid 347] AH00455: Child: Starting 150 worker threads.
+[Mon Jan 13 00:24:49.507851 2025] [mpm_winnt:crit] [pid 17935:tid 372] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Mon Jan 13 00:37:52.078847 2025] [mpm_winnt:warn] [pid 6772:tid 353] AH00456: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 13 01:45:32.617549 2025] [mpm_winnt:warn] [pid 18529:tid 373] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 13 08:06:11.189479 2025] [mpm_winnt:crit] [pid 8325:tid 369] AH01909: Parent: Created child process 2554
+[Mon Jan 13 08:34:19.376544 2025] [mpm_winnt:warn] [pid 31611:tid 409] AH00455: Child: Starting 200 worker threads.
+[Mon Jan 13 09:15:53.759574 2025] [mpm_winnt:crit] [pid 20806:tid 397] AH00456: Child: Parent process exited abruptly. Child process is ending
+[Mon Jan 13 13:10:17.282384 2025] [mpm_winnt:warn] [pid 2153:tid 413] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 13 13:22:53.384709 2025] [mpm_winnt:warn] [pid 28798:tid 358] AH00354: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 13 14:39:59.435534 2025] [mpm_winnt:warn] [pid 6985:tid 389] AH00418: Parent: Created child process 6507
+[Mon Jan 13 16:32:18.823732 2025] [mpm_winnt:warn] [pid 4454:tid 365] AH00456: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Jan 13 21:16:33.732660 2025] [mpm_winnt:warn] [pid 24491:tid 409] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Mon Jan 13 22:53:37.887261 2025] [mpm_winnt:notice] [pid 11303:tid 399] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Mon Jan 13 23:37:37.344958 2025] [mpm_winnt:notice] [pid 7446:tid 414] AH00456: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Tue Jan 14 01:20:45.618765 2025] [mpm_winnt:notice] [pid 3555:tid 362] AH00354: Child: Starting 128 worker threads.
+[Tue Jan 14 07:07:41.058367 2025] [mpm_winnt:notice] [pid 16039:tid 413] AH00098: Parent: Created child process 9153
+[Tue Jan 14 10:00:19.156504 2025] [mpm_winnt:crit] [pid 13556:tid 420] AH00456: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Jan 14 11:18:25.205476 2025] [mpm_winnt:warn] [pid 23268:tid 410] AH00094: Child: Starting 128 worker threads.
+[Tue Jan 14 12:22:34.034633 2025] [mpm_winnt:crit] [pid 26406:tid 389] AH00354: Child: Starting 150 worker threads.
+[Tue Jan 14 15:38:03.630901 2025] [mpm_winnt:warn] [pid 6361:tid 416] AH00354: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 14 15:52:19.004226 2025] [mpm_winnt:notice] [pid 9593:tid 389] AH00098: Parent: Created child process 26319
+[Tue Jan 14 17:11:00.270872 2025] [mpm_winnt:notice] [pid 26790:tid 371] AH00098: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Tue Jan 14 17:23:52.676847 2025] [mpm_winnt:warn] [pid 25518:tid 407] AH01909: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 14 23:37:49.348874 2025] [mpm_winnt:notice] [pid 8634:tid 386] AH00354: Parent: Created child process 14160
+[Tue Jan 14 23:39:09.353837 2025] [mpm_winnt:crit] [pid 11202:tid 356] AH00354: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Wed Jan 15 00:30:02.544982 2025] [mpm_winnt:warn] [pid 25631:tid 382] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 15 03:53:58.688812 2025] [mpm_winnt:warn] [pid 26242:tid 394] AH01909: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Wed Jan 15 05:32:24.571780 2025] [mpm_winnt:warn] [pid 11001:tid 395] AH02538: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Jan 15 08:41:59.847298 2025] [mpm_winnt:warn] [pid 12235:tid 417] AH00455: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Wed Jan 15 16:51:39.564937 2025] [mpm_winnt:crit] [pid 13661:tid 401] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 15 21:37:49.869696 2025] [mpm_winnt:notice] [pid 13243:tid 389] AH00418: Parent: Created child process 18347
+[Wed Jan 15 23:41:28.751647 2025] [mpm_winnt:notice] [pid 20873:tid 353] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Jan 16 00:15:20.066924 2025] [mpm_winnt:crit] [pid 27466:tid 378] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Thu Jan 16 01:37:03.207086 2025] [mpm_winnt:crit] [pid 11418:tid 415] AH00098: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Thu Jan 16 02:24:20.361254 2025] [mpm_winnt:notice] [pid 31615:tid 350] AH00098: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Thu Jan 16 03:19:01.498726 2025] [mpm_winnt:crit] [pid 13547:tid 403] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Jan 16 04:30:31.464213 2025] [mpm_winnt:crit] [pid 6544:tid 370] AH01909: Child: Parent process exited abruptly. Child process is ending
+[Thu Jan 16 05:06:52.552195 2025] [mpm_winnt:notice] [pid 1851:tid 363] AH00098: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Thu Jan 16 06:01:32.670527 2025] [mpm_winnt:notice] [pid 4966:tid 397] AH02538: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Jan 16 06:04:41.646166 2025] [mpm_winnt:warn] [pid 27978:tid 368] AH00456: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Thu Jan 16 07:07:57.213434 2025] [mpm_winnt:crit] [pid 28525:tid 350] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Thu Jan 16 07:19:23.319589 2025] [mpm_winnt:crit] [pid 8925:tid 389] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Thu Jan 16 07:47:06.844224 2025] [mpm_winnt:warn] [pid 17902:tid 379] AH00456: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Jan 16 09:49:44.616739 2025] [mpm_winnt:warn] [pid 7043:tid 378] AH00418: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Thu Jan 16 10:27:08.637994 2025] [mpm_winnt:warn] [pid 24193:tid 353] AH00354: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 16 11:13:04.167167 2025] [mpm_winnt:notice] [pid 9382:tid 382] AH00094: Child: Starting 200 worker threads.
+[Thu Jan 16 13:29:58.336118 2025] [mpm_winnt:crit] [pid 29924:tid 397] AH00354: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 16 14:58:47.493438 2025] [mpm_winnt:notice] [pid 11846:tid 343] AH00354: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 16 16:05:24.617333 2025] [mpm_winnt:notice] [pid 6922:tid 390] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 16 22:20:28.492889 2025] [mpm_winnt:notice] [pid 27832:tid 401] AH00455: Parent: Created child process 18019
+[Fri Jan 17 00:27:22.332116 2025] [mpm_winnt:crit] [pid 15862:tid 393] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Fri Jan 17 07:20:12.811931 2025] [mpm_winnt:crit] [pid 30570:tid 370] AH00456: Parent: Created child process 21908
+[Fri Jan 17 08:45:58.590819 2025] [mpm_winnt:crit] [pid 20857:tid 358] AH00094: Parent: Created child process 15480
+[Fri Jan 17 11:29:21.687412 2025] [mpm_winnt:crit] [pid 8171:tid 371] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Fri Jan 17 12:31:05.753913 2025] [mpm_winnt:crit] [pid 19820:tid 394] AH00418: Child: Starting 96 worker threads.
+[Fri Jan 17 13:32:00.612893 2025] [mpm_winnt:notice] [pid 23706:tid 391] AH01909: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Jan 17 16:20:51.260332 2025] [mpm_winnt:crit] [pid 8154:tid 399] AH01909: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Jan 18 01:29:05.105341 2025] [mpm_winnt:warn] [pid 18971:tid 420] AH00455: Parent: Created child process 8016
+[Sat Jan 18 02:01:46.684134 2025] [mpm_winnt:warn] [pid 5422:tid 346] AH02538: Child: Starting 150 worker threads.
+[Sat Jan 18 08:29:05.439609 2025] [mpm_winnt:crit] [pid 7826:tid 390] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Jan 18 09:39:50.424113 2025] [mpm_winnt:notice] [pid 30719:tid 404] AH01909: Parent: Created child process 20800
+[Sat Jan 18 12:10:56.140201 2025] [mpm_winnt:crit] [pid 18735:tid 400] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sat Jan 18 13:22:18.273095 2025] [mpm_winnt:notice] [pid 24086:tid 365] AH01909: Child: Starting 150 worker threads.
+[Sat Jan 18 15:31:23.792143 2025] [mpm_winnt:warn] [pid 6136:tid 358] AH00354: Parent: Created child process 24165
+[Sat Jan 18 15:54:28.159193 2025] [mpm_winnt:crit] [pid 10912:tid 351] AH00354: Parent: Created child process 15714
+[Sat Jan 18 17:58:42.655850 2025] [mpm_winnt:crit] [pid 19876:tid 410] AH00418: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Jan 18 18:32:58.723877 2025] [mpm_winnt:warn] [pid 25047:tid 370] AH01909: Child: Starting 128 worker threads.
+[Sat Jan 18 21:32:18.695496 2025] [mpm_winnt:warn] [pid 16652:tid 374] AH00456: Parent: Created child process 19890
+[Sat Jan 18 22:00:57.676120 2025] [mpm_winnt:crit] [pid 14704:tid 418] AH00098: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sat Jan 18 22:26:57.137749 2025] [mpm_winnt:warn] [pid 22498:tid 399] AH00354: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Jan 18 23:10:31.357706 2025] [mpm_winnt:crit] [pid 19168:tid 372] AH00455: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sun Jan 19 00:31:05.711012 2025] [mpm_winnt:notice] [pid 20219:tid 366] AH02538: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Jan 19 01:35:01.736174 2025] [mpm_winnt:notice] [pid 16663:tid 357] AH00098: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sun Jan 19 02:20:13.237604 2025] [mpm_winnt:crit] [pid 7345:tid 389] AH00456: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 19 02:46:51.198165 2025] [mpm_winnt:warn] [pid 24085:tid 403] AH00418: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 19 04:31:08.702312 2025] [mpm_winnt:warn] [pid 20081:tid 340] AH01909: Child: Parent process exited abruptly. Child process is ending
+[Sun Jan 19 05:15:28.706386 2025] [mpm_winnt:crit] [pid 3066:tid 404] AH02538: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 19 09:16:25.302672 2025] [mpm_winnt:warn] [pid 12329:tid 354] AH01909: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Jan 19 13:16:40.447738 2025] [mpm_winnt:notice] [pid 22645:tid 399] AH00418: Child: Starting 150 worker threads.
+[Sun Jan 19 14:18:49.195974 2025] [mpm_winnt:notice] [pid 12670:tid 367] AH00455: Child: Starting 128 worker threads.
+[Sun Jan 19 17:36:16.478761 2025] [mpm_winnt:warn] [pid 11609:tid 379] AH01909: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Sun Jan 19 18:05:57.446427 2025] [mpm_winnt:crit] [pid 16651:tid 400] AH00418: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Sun Jan 19 19:31:09.749768 2025] [mpm_winnt:crit] [pid 14973:tid 340] AH01909: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Jan 19 19:45:50.756149 2025] [mpm_winnt:notice] [pid 8782:tid 415] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 19 21:04:19.883618 2025] [mpm_winnt:crit] [pid 31765:tid 347] AH00354: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Jan 19 21:07:22.040370 2025] [mpm_winnt:crit] [pid 15546:tid 343] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Mon Jan 20 03:36:14.605613 2025] [mpm_winnt:crit] [pid 19534:tid 343] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 20 04:19:40.518966 2025] [mpm_winnt:warn] [pid 13242:tid 403] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 20 05:47:09.362875 2025] [mpm_winnt:notice] [pid 4437:tid 368] AH00094: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 20 06:03:55.773692 2025] [mpm_winnt:notice] [pid 23047:tid 368] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 20 07:11:30.608415 2025] [mpm_winnt:warn] [pid 21937:tid 351] AH00098: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Jan 20 07:42:22.618538 2025] [mpm_winnt:crit] [pid 16214:tid 401] AH01909: Child: Parent process exited abruptly. Child process is ending
+[Mon Jan 20 07:56:48.205737 2025] [mpm_winnt:notice] [pid 21770:tid 341] AH01909: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Mon Jan 20 09:55:52.045325 2025] [mpm_winnt:notice] [pid 20256:tid 370] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 20 13:39:39.159603 2025] [mpm_winnt:notice] [pid 11914:tid 341] AH00094: Child: Starting 150 worker threads.
+[Mon Jan 20 14:44:06.622263 2025] [mpm_winnt:crit] [pid 1568:tid 369] AH00098: Parent: Created child process 9910
+[Mon Jan 20 14:58:51.571224 2025] [mpm_winnt:warn] [pid 28939:tid 387] AH00354: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 20 16:50:01.729660 2025] [mpm_winnt:crit] [pid 26665:tid 384] AH00456: Child: Parent process exited abruptly. Child process is ending
+[Mon Jan 20 17:16:35.414321 2025] [mpm_winnt:notice] [pid 10660:tid 396] AH01909: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Jan 20 19:02:19.006756 2025] [mpm_winnt:notice] [pid 30596:tid 364] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Jan 20 19:30:44.051915 2025] [mpm_winnt:warn] [pid 5424:tid 409] AH01909: Child: Starting 200 worker threads.
+[Mon Jan 20 19:32:26.047086 2025] [mpm_winnt:notice] [pid 14143:tid 405] AH00354: Parent: Created child process 19629
+[Tue Jan 21 02:31:22.441319 2025] [mpm_winnt:warn] [pid 10128:tid 373] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 21 05:34:30.270579 2025] [mpm_winnt:notice] [pid 9878:tid 397] AH01909: Child: Parent process exited abruptly. Child process is ending
+[Tue Jan 21 06:57:27.575762 2025] [mpm_winnt:notice] [pid 3916:tid 365] AH00094: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Tue Jan 21 07:09:51.147047 2025] [mpm_winnt:notice] [pid 5193:tid 385] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Tue Jan 21 07:16:06.556547 2025] [mpm_winnt:warn] [pid 5521:tid 376] AH02538: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Tue Jan 21 07:35:47.276669 2025] [mpm_winnt:notice] [pid 12725:tid 395] AH00354: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 21 08:20:48.440781 2025] [mpm_winnt:notice] [pid 19030:tid 409] AH00098: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Jan 21 11:31:56.259786 2025] [mpm_winnt:notice] [pid 3395:tid 389] AH02538: Child: Starting 128 worker threads.
+[Tue Jan 21 15:13:38.260923 2025] [mpm_winnt:warn] [pid 25365:tid 401] AH00455: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Jan 21 15:24:41.653532 2025] [mpm_winnt:notice] [pid 22570:tid 386] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Tue Jan 21 16:23:21.021024 2025] [mpm_winnt:crit] [pid 15933:tid 381] AH00456: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 21 18:04:49.419593 2025] [mpm_winnt:crit] [pid 22231:tid 399] AH00094: Child: Parent process exited abruptly. Child process is ending
+[Tue Jan 21 18:47:44.586083 2025] [mpm_winnt:crit] [pid 7312:tid 376] AH00098: Child: Starting 64 worker threads.
+[Tue Jan 21 23:09:43.800754 2025] [mpm_winnt:warn] [pid 3854:tid 360] AH00094: Parent: Created child process 19375
+[Wed Jan 22 02:46:11.876746 2025] [mpm_winnt:crit] [pid 19579:tid 395] AH00456: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Wed Jan 22 08:28:37.125812 2025] [mpm_winnt:warn] [pid 3383:tid 413] AH01909: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Wed Jan 22 12:27:00.252719 2025] [mpm_winnt:crit] [pid 13059:tid 368] AH01909: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 22 13:32:44.127059 2025] [mpm_winnt:crit] [pid 28701:tid 413] AH00354: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 22 14:04:23.367242 2025] [mpm_winnt:notice] [pid 23597:tid 366] AH01909: Parent: Created child process 7941
+[Wed Jan 22 15:21:20.611659 2025] [mpm_winnt:notice] [pid 22152:tid 382] AH00354: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Jan 22 20:57:59.076933 2025] [mpm_winnt:crit] [pid 19491:tid 381] AH00418: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Jan 22 21:33:29.195760 2025] [mpm_winnt:crit] [pid 3234:tid 413] AH00418: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Wed Jan 22 22:34:03.603727 2025] [mpm_winnt:warn] [pid 19695:tid 372] AH01909: Child: Parent process exited abruptly. Child process is ending
+[Wed Jan 22 23:41:11.750876 2025] [mpm_winnt:warn] [pid 21345:tid 348] AH01909: Parent: Created child process 19346
+[Thu Jan 23 00:34:41.694977 2025] [mpm_winnt:notice] [pid 15283:tid 358] AH00354: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Jan 23 01:24:36.210238 2025] [mpm_winnt:warn] [pid 9371:tid 354] AH00098: Child: Starting 150 worker threads.
+[Thu Jan 23 05:40:29.896582 2025] [mpm_winnt:warn] [pid 10424:tid 365] AH02538: Child: Starting 96 worker threads.
+[Thu Jan 23 06:27:10.279286 2025] [mpm_winnt:notice] [pid 23107:tid 418] AH01909: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Jan 23 08:29:38.478423 2025] [mpm_winnt:crit] [pid 27912:tid 371] AH00094: Child: Starting 200 worker threads.
+[Thu Jan 23 10:21:09.361291 2025] [mpm_winnt:crit] [pid 14585:tid 413] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Thu Jan 23 10:58:57.616350 2025] [mpm_winnt:notice] [pid 5785:tid 390] AH00418: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Thu Jan 23 11:32:13.280811 2025] [mpm_winnt:crit] [pid 23861:tid 379] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 23 11:55:49.246891 2025] [mpm_winnt:warn] [pid 14520:tid 373] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Jan 23 12:50:07.128325 2025] [mpm_winnt:notice] [pid 29447:tid 351] AH00418: Parent: Created child process 6782
+[Thu Jan 23 14:18:13.097851 2025] [mpm_winnt:notice] [pid 13261:tid 404] AH01909: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 23 16:41:46.220807 2025] [mpm_winnt:crit] [pid 16601:tid 369] AH00456: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Thu Jan 23 16:57:40.741455 2025] [mpm_winnt:notice] [pid 2216:tid 398] AH00354: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Jan 23 17:10:52.309263 2025] [mpm_winnt:crit] [pid 20861:tid 379] AH02538: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Thu Jan 23 18:40:55.502442 2025] [mpm_winnt:crit] [pid 26874:tid 379] AH01909: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Fri Jan 24 01:02:26.693848 2025] [mpm_winnt:warn] [pid 29940:tid 340] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Jan 24 03:39:19.126307 2025] [mpm_winnt:crit] [pid 26367:tid 357] AH00354: Child: Starting 150 worker threads.
+[Fri Jan 24 03:52:55.833055 2025] [mpm_winnt:warn] [pid 20656:tid 418] AH01909: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Jan 24 06:33:24.196523 2025] [mpm_winnt:warn] [pid 23308:tid 409] AH00418: Child: Starting 150 worker threads.
+[Fri Jan 24 08:25:17.665830 2025] [mpm_winnt:notice] [pid 24197:tid 415] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 24 08:45:03.636409 2025] [mpm_winnt:warn] [pid 5042:tid 368] AH01909: Child: Parent process exited abruptly. Child process is ending
+[Fri Jan 24 10:07:48.896959 2025] [mpm_winnt:warn] [pid 6727:tid 353] AH00456: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Fri Jan 24 13:26:18.211970 2025] [mpm_winnt:notice] [pid 18356:tid 405] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 24 15:17:20.060023 2025] [mpm_winnt:warn] [pid 7251:tid 409] AH00354: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 24 17:56:36.210860 2025] [mpm_winnt:notice] [pid 30709:tid 367] AH00094: Parent: Created child process 15052
+[Fri Jan 24 19:57:01.183743 2025] [mpm_winnt:warn] [pid 19542:tid 357] AH00418: Parent: Created child process 25840
+[Fri Jan 24 21:38:25.638474 2025] [mpm_winnt:crit] [pid 22998:tid 414] AH00418: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Fri Jan 24 22:17:07.850281 2025] [mpm_winnt:crit] [pid 15856:tid 340] AH00094: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Jan 25 00:57:26.516975 2025] [mpm_winnt:warn] [pid 4109:tid 340] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Sat Jan 25 02:38:16.230562 2025] [mpm_winnt:warn] [pid 12143:tid 376] AH01909: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Jan 25 06:44:32.240654 2025] [mpm_winnt:notice] [pid 4282:tid 405] AH00094: Child: Starting 128 worker threads.
+[Sat Jan 25 06:56:54.808263 2025] [mpm_winnt:crit] [pid 28984:tid 392] AH00418: Parent: Created child process 21968
+[Sat Jan 25 07:18:54.361289 2025] [mpm_winnt:notice] [pid 7786:tid 380] AH00354: Parent: Created child process 11543
+[Sat Jan 25 08:28:40.624863 2025] [mpm_winnt:crit] [pid 24367:tid 364] AH02538: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 25 09:58:09.651738 2025] [mpm_winnt:notice] [pid 21095:tid 374] AH00094: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Sat Jan 25 10:09:00.096227 2025] [mpm_winnt:crit] [pid 9209:tid 355] AH00098: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Sat Jan 25 10:42:53.351784 2025] [mpm_winnt:notice] [pid 17058:tid 414] AH00098: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 25 11:20:13.642046 2025] [mpm_winnt:notice] [pid 8370:tid 410] AH00354: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 25 12:41:08.068644 2025] [mpm_winnt:crit] [pid 19113:tid 372] AH00418: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sat Jan 25 14:33:14.770172 2025] [mpm_winnt:notice] [pid 1731:tid 413] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Sat Jan 25 15:58:11.371338 2025] [mpm_winnt:warn] [pid 13001:tid 390] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sat Jan 25 16:12:19.158333 2025] [mpm_winnt:crit] [pid 11154:tid 372] AH00418: Child: Starting 64 worker threads.
+[Sat Jan 25 17:24:53.841953 2025] [mpm_winnt:crit] [pid 15717:tid 394] AH01909: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sat Jan 25 19:50:27.352303 2025] [mpm_winnt:notice] [pid 29132:tid 407] AH00455: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Sat Jan 25 22:03:18.160006 2025] [mpm_winnt:crit] [pid 27150:tid 394] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 25 22:05:07.737555 2025] [mpm_winnt:crit] [pid 27568:tid 409] AH01909: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 26 01:05:58.337843 2025] [mpm_winnt:warn] [pid 16696:tid 368] AH02538: Child: Starting 200 worker threads.
+[Sun Jan 26 03:41:26.557426 2025] [mpm_winnt:notice] [pid 13064:tid 408] AH00094: Child: Parent process exited abruptly. Child process is ending
+[Sun Jan 26 04:07:25.660220 2025] [mpm_winnt:warn] [pid 9459:tid 409] AH00094: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 26 05:15:30.057161 2025] [mpm_winnt:notice] [pid 17014:tid 410] AH00455: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Jan 26 05:19:54.607003 2025] [mpm_winnt:warn] [pid 16952:tid 343] AH00354: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sun Jan 26 09:41:01.809958 2025] [mpm_winnt:warn] [pid 6154:tid 375] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 26 09:52:43.674954 2025] [mpm_winnt:notice] [pid 28961:tid 383] AH01909: Child: Starting 128 worker threads.
+[Sun Jan 26 10:56:19.515924 2025] [mpm_winnt:warn] [pid 8478:tid 383] AH00455: Child: Starting 128 worker threads.
+[Sun Jan 26 11:28:42.255406 2025] [mpm_winnt:warn] [pid 12405:tid 348] AH02538: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Sun Jan 26 13:48:47.790013 2025] [mpm_winnt:notice] [pid 3411:tid 385] AH00354: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Jan 26 17:21:56.435127 2025] [mpm_winnt:crit] [pid 24869:tid 368] AH01909: Parent: Created child process 7144
+[Sun Jan 26 22:06:02.124177 2025] [mpm_winnt:notice] [pid 18226:tid 397] AH00418: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sun Jan 26 22:36:50.009709 2025] [mpm_winnt:warn] [pid 15903:tid 344] AH02538: Child: Starting 200 worker threads.
+[Mon Jan 27 00:27:08.640813 2025] [mpm_winnt:warn] [pid 3152:tid 372] AH02538: Parent: Created child process 5983
+[Mon Jan 27 01:10:19.039449 2025] [mpm_winnt:notice] [pid 18536:tid 412] AH00354: Parent: Created child process 26952
+[Mon Jan 27 02:43:39.671724 2025] [mpm_winnt:notice] [pid 6060:tid 355] AH00094: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 27 03:55:07.416950 2025] [mpm_winnt:warn] [pid 11404:tid 417] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 27 06:23:23.197562 2025] [mpm_winnt:crit] [pid 20557:tid 363] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Mon Jan 27 06:28:30.895924 2025] [mpm_winnt:notice] [pid 3573:tid 406] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Jan 27 16:55:34.833552 2025] [mpm_winnt:notice] [pid 11055:tid 408] AH00418: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Jan 27 18:18:30.417844 2025] [mpm_winnt:notice] [pid 21840:tid 381] AH02538: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Mon Jan 27 18:23:01.669650 2025] [mpm_winnt:crit] [pid 4894:tid 385] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 27 19:52:12.141329 2025] [mpm_winnt:crit] [pid 27119:tid 353] AH00418: Child: Starting 200 worker threads.
+[Mon Jan 27 22:32:34.339028 2025] [mpm_winnt:warn] [pid 23671:tid 370] AH00455: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Jan 28 00:41:19.866744 2025] [mpm_winnt:crit] [pid 16178:tid 379] AH00094: Child: Parent process exited abruptly. Child process is ending
+[Tue Jan 28 01:25:05.269683 2025] [mpm_winnt:notice] [pid 31939:tid 398] AH00354: Parent: Created child process 20543
+[Tue Jan 28 01:46:05.143248 2025] [mpm_winnt:notice] [pid 12116:tid 384] AH00418: Parent: Created child process 28881
+[Tue Jan 28 01:57:05.525535 2025] [mpm_winnt:crit] [pid 20293:tid 389] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 28 08:45:49.645368 2025] [mpm_winnt:crit] [pid 31307:tid 400] AH02538: Child: Starting 96 worker threads.
+[Tue Jan 28 10:17:19.120627 2025] [mpm_winnt:notice] [pid 14988:tid 410] AH00354: Parent: Created child process 10035
+[Tue Jan 28 15:36:17.074229 2025] [mpm_winnt:crit] [pid 20053:tid 403] AH01909: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Tue Jan 28 16:26:32.286081 2025] [mpm_winnt:notice] [pid 13513:tid 368] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Tue Jan 28 16:50:44.468589 2025] [mpm_winnt:notice] [pid 24741:tid 388] AH00455: Child: Starting 128 worker threads.
+[Tue Jan 28 17:41:25.560091 2025] [mpm_winnt:notice] [pid 3743:tid 397] AH00455: Parent: Created child process 3562
+[Tue Jan 28 18:02:45.354503 2025] [mpm_winnt:crit] [pid 6598:tid 358] AH00354: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Tue Jan 28 19:03:48.444378 2025] [mpm_winnt:warn] [pid 17704:tid 368] AH00354: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 28 19:48:07.212496 2025] [mpm_winnt:crit] [pid 1699:tid 408] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 28 21:30:18.382293 2025] [mpm_winnt:warn] [pid 3118:tid 417] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Wed Jan 29 01:24:30.312233 2025] [mpm_winnt:warn] [pid 28961:tid 340] AH02538: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 29 06:50:58.699231 2025] [mpm_winnt:notice] [pid 28956:tid 370] AH00455: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Wed Jan 29 10:46:02.509712 2025] [mpm_winnt:crit] [pid 2226:tid 384] AH02538: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 29 11:56:21.329474 2025] [mpm_winnt:notice] [pid 24261:tid 419] AH01909: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Wed Jan 29 12:52:12.602648 2025] [mpm_winnt:warn] [pid 9919:tid 385] FATAL ERROR: Memory allocation failed in mpm_winnt module.
+[Wed Jan 29 13:11:15.052474 2025] [mpm_winnt:crit] [pid 19403:tid 417] AH00354: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 29 14:56:27.358046 2025] [mpm_winnt:notice] [pid 23026:tid 376] AH00456: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Wed Jan 29 21:52:32.421157 2025] [mpm_winnt:notice] [pid 18045:tid 385] AH01909: Child: Starting 200 worker threads.
+[Wed Jan 29 22:53:15.659163 2025] [mpm_winnt:crit] [pid 9849:tid 417] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Thu Jan 30 03:58:30.389340 2025] [mpm_winnt:warn] [pid 6222:tid 340] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 30 07:21:11.304712 2025] [mpm_winnt:crit] [pid 25865:tid 378] AH00094: Child: Starting 64 worker threads.
+[Thu Jan 30 07:53:40.511681 2025] [mpm_winnt:notice] [pid 8671:tid 384] AH02538: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Thu Jan 30 13:01:57.035951 2025] [mpm_winnt:crit] [pid 1701:tid 400] AH00418: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Thu Jan 30 16:10:14.331077 2025] [mpm_winnt:warn] [pid 13857:tid 353] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 30 19:20:14.161427 2025] [mpm_winnt:warn] [pid 21717:tid 392] AH00455: Parent: Created child process 8815
+[Thu Jan 30 19:38:38.798778 2025] [mpm_winnt:crit] [pid 20320:tid 401] AH00354: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Jan 30 23:01:15.194323 2025] [mpm_winnt:crit] [pid 18162:tid 413] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Fri Jan 31 03:04:51.329687 2025] [mpm_winnt:warn] [pid 29908:tid 356] AH02538: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Jan 31 08:10:11.411382 2025] [mpm_winnt:crit] [pid 27562:tid 377] AH00456: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Jan 31 13:48:00.449530 2025] [mpm_winnt:warn] [pid 31133:tid 396] AH00098: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Jan 31 14:35:31.703596 2025] [mpm_winnt:notice] [pid 10510:tid 404] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Fri Jan 31 15:02:31.437269 2025] [mpm_winnt:notice] [pid 3515:tid 341] AH02538: Child: Starting 128 worker threads.
+[Fri Jan 31 15:07:03.607405 2025] [mpm_winnt:notice] [pid 11258:tid 420] AH01909: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Fri Jan 31 15:28:23.417340 2025] [mpm_winnt:notice] [pid 25579:tid 398] AH00455: Child: Starting 128 worker threads.
+[Fri Jan 31 18:59:39.234638 2025] [mpm_winnt:crit] [pid 15639:tid 358] AH00455: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Jan 31 21:26:11.290786 2025] [mpm_winnt:warn] [pid 29325:tid 340] AH00418: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Fri Jan 31 22:00:24.126922 2025] [mpm_winnt:notice] [pid 25796:tid 400] AH00418: Parent: Created child process 24730
+[Fri Jan 31 23:41:45.266192 2025] [mpm_winnt:notice] [pid 15550:tid 351] AH00456: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Feb 01 01:42:00.784576 2025] [mpm_winnt:crit] [pid 25080:tid 355] AH00418: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sat Feb 01 03:59:26.726866 2025] [mpm_winnt:crit] [pid 1850:tid 388] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sat Feb 01 06:14:36.006638 2025] [mpm_winnt:warn] [pid 2415:tid 352] AH00456: Child: Starting 64 worker threads.
+[Sat Feb 01 07:25:54.546266 2025] [mpm_winnt:crit] [pid 16132:tid 356] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Sat Feb 01 13:03:38.356869 2025] [mpm_winnt:warn] [pid 10623:tid 403] AH00456: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 01 15:22:35.533790 2025] [mpm_winnt:crit] [pid 9498:tid 356] AH00094: Child: Starting 96 worker threads.
+[Sat Feb 01 15:30:28.411572 2025] [mpm_winnt:crit] [pid 15281:tid 365] AH02538: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Sat Feb 01 16:05:13.384157 2025] [mpm_winnt:crit] [pid 21036:tid 363] AH00418: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Feb 01 17:44:06.481714 2025] [mpm_winnt:notice] [pid 18947:tid 390] AH00098: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 01 19:38:31.661239 2025] [mpm_winnt:crit] [pid 18035:tid 372] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Feb 02 04:54:52.234040 2025] [mpm_winnt:notice] [pid 6610:tid 347] AH00094: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Sun Feb 02 06:01:18.467856 2025] [mpm_winnt:crit] [pid 14474:tid 341] AH01909: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 02 06:07:59.023197 2025] [mpm_winnt:warn] [pid 7838:tid 374] AH01909: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Sun Feb 02 06:14:21.687623 2025] [mpm_winnt:crit] [pid 20685:tid 394] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Sun Feb 02 07:20:42.048012 2025] [mpm_winnt:warn] [pid 25207:tid 403] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Sun Feb 02 09:28:37.063716 2025] [mpm_winnt:crit] [pid 19875:tid 396] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Feb 02 09:29:27.092536 2025] [mpm_winnt:crit] [pid 17775:tid 390] AH00418: Child: Starting 128 worker threads.
+[Sun Feb 02 10:11:52.242735 2025] [mpm_winnt:crit] [pid 21572:tid 404] AH00354: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 02 11:28:18.827507 2025] [mpm_winnt:crit] [pid 25080:tid 389] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Feb 02 13:36:55.627166 2025] [mpm_winnt:warn] [pid 3205:tid 351] AH02538: Parent: Created child process 21866
+[Sun Feb 02 14:37:55.340521 2025] [mpm_winnt:crit] [pid 2283:tid 385] AH01909: Child: Starting 150 worker threads.
+[Sun Feb 02 22:02:47.195431 2025] [mpm_winnt:notice] [pid 30933:tid 375] AH00456: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 03 00:15:25.668320 2025] [mpm_winnt:crit] [pid 3531:tid 411] AH00456: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Feb 03 02:59:32.482630 2025] [mpm_winnt:warn] [pid 7661:tid 360] AH01909: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 03 08:17:52.364795 2025] [mpm_winnt:notice] [pid 19166:tid 344] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 03 08:19:03.828348 2025] [mpm_winnt:warn] [pid 28590:tid 384] AH00456: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Mon Feb 03 08:24:47.018291 2025] [mpm_winnt:warn] [pid 17034:tid 375] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Mon Feb 03 09:30:38.550932 2025] [mpm_winnt:warn] [pid 1488:tid 369] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 03 10:10:12.281126 2025] [mpm_winnt:notice] [pid 5062:tid 365] AH00354: Parent: Created child process 2752
+[Mon Feb 03 11:00:23.568646 2025] [mpm_winnt:crit] [pid 7774:tid 412] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Feb 03 11:15:55.672662 2025] [mpm_winnt:crit] [pid 5425:tid 385] AH00456: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 03 13:07:02.213939 2025] [mpm_winnt:notice] [pid 3009:tid 395] AH01909: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Mon Feb 03 14:08:13.690342 2025] [mpm_winnt:crit] [pid 29946:tid 370] AH01909: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Feb 03 14:30:41.526959 2025] [mpm_winnt:crit] [pid 1784:tid 341] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 03 18:14:24.377908 2025] [mpm_winnt:warn] [pid 1446:tid 415] AH02538: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Mon Feb 03 19:39:55.832004 2025] [mpm_winnt:crit] [pid 13917:tid 364] AH00354: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 03 20:32:26.419916 2025] [mpm_winnt:warn] [pid 20627:tid 351] AH02538: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 04 01:03:08.624929 2025] [mpm_winnt:notice] [pid 3259:tid 408] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Tue Feb 04 02:46:31.766652 2025] [mpm_winnt:notice] [pid 13454:tid 407] AH00418: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Feb 04 04:31:01.610248 2025] [mpm_winnt:warn] [pid 5971:tid 348] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Feb 04 04:49:55.613594 2025] [mpm_winnt:crit] [pid 23326:tid 359] AH00094: Child: Parent process exited abruptly. Child process is ending
+[Tue Feb 04 07:25:49.272018 2025] [mpm_winnt:notice] [pid 25193:tid 417] AH00418: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 04 09:30:33.735162 2025] [mpm_winnt:warn] [pid 21545:tid 390] AH00456: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 04 11:51:21.319361 2025] [mpm_winnt:notice] [pid 21802:tid 418] AH00456: Parent: Created child process 15429
+[Tue Feb 04 11:54:33.627053 2025] [mpm_winnt:crit] [pid 11819:tid 351] AH01909: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Tue Feb 04 13:09:39.263197 2025] [mpm_winnt:notice] [pid 19815:tid 365] AH00354: Parent: Created child process 20596
+[Tue Feb 04 13:11:00.418859 2025] [mpm_winnt:crit] [pid 18745:tid 377] AH00456: Parent: Created child process 26394
+[Tue Feb 04 14:59:58.197287 2025] [mpm_winnt:crit] [pid 30390:tid 342] AH00354: Child: Starting 128 worker threads.
+[Tue Feb 04 15:29:53.246684 2025] [mpm_winnt:warn] [pid 11968:tid 403] AH00418: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Tue Feb 04 16:47:18.684858 2025] [mpm_winnt:notice] [pid 26798:tid 419] AH00456: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Tue Feb 04 17:40:08.867258 2025] [mpm_winnt:notice] [pid 22651:tid 371] AH00354: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Feb 04 18:34:06.864896 2025] [mpm_winnt:crit] [pid 18405:tid 342] AH00455: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Feb 04 19:27:15.365910 2025] [mpm_winnt:warn] [pid 18539:tid 376] AH00455: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Feb 04 22:59:12.310970 2025] [mpm_winnt:crit] [pid 21826:tid 400] AH01909: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 05 00:56:01.083627 2025] [mpm_winnt:warn] [pid 19187:tid 346] AH00094: Parent: Created child process 7203
+[Wed Feb 05 03:06:55.172357 2025] [mpm_winnt:warn] [pid 7064:tid 347] AH00354: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 05 03:54:17.681220 2025] [mpm_winnt:notice] [pid 14064:tid 357] AH00098: Parent: Created child process 18599
+[Wed Feb 05 03:55:30.514727 2025] [mpm_winnt:warn] [pid 10789:tid 381] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 05 05:12:15.662927 2025] [mpm_winnt:crit] [pid 2787:tid 419] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 05 05:34:48.082738 2025] [mpm_winnt:warn] [pid 20025:tid 397] AH00098: Parent: Created child process 6366
+[Wed Feb 05 07:16:27.407615 2025] [mpm_winnt:warn] [pid 20551:tid 383] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Wed Feb 05 08:21:14.286673 2025] [mpm_winnt:crit] [pid 23632:tid 366] AH00455: Child: Starting 150 worker threads.
+[Wed Feb 05 08:52:22.857950 2025] [mpm_winnt:warn] [pid 4194:tid 416] AH00455: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 05 09:02:46.290467 2025] [mpm_winnt:notice] [pid 21931:tid 395] AH01909: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 05 10:51:51.743352 2025] [mpm_winnt:crit] [pid 11715:tid 378] AH00098: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Feb 05 11:05:24.316921 2025] [mpm_winnt:notice] [pid 23680:tid 362] AH02538: Parent: Created child process 19586
+[Wed Feb 05 17:54:19.323558 2025] [mpm_winnt:warn] [pid 1908:tid 375] AH00098: Parent: Created child process 5624
+[Wed Feb 05 21:02:44.863157 2025] [mpm_winnt:crit] [pid 21379:tid 370] AH02538: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Wed Feb 05 23:54:52.076951 2025] [mpm_winnt:warn] [pid 20463:tid 386] AH02538: Parent: Created child process 28328
+[Thu Feb 06 00:39:38.636917 2025] [mpm_winnt:notice] [pid 10686:tid 417] AH00354: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Feb 06 01:55:16.519903 2025] [mpm_winnt:notice] [pid 22907:tid 359] AH00094: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 06 03:38:52.240368 2025] [mpm_winnt:crit] [pid 17017:tid 351] AH00455: Child: Starting 128 worker threads.
+[Thu Feb 06 08:21:09.332525 2025] [mpm_winnt:warn] [pid 7355:tid 413] AH00418: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Thu Feb 06 09:29:52.346781 2025] [mpm_winnt:crit] [pid 9575:tid 394] AH00094: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 06 09:37:35.249687 2025] [mpm_winnt:warn] [pid 26285:tid 373] AH00418: Parent: Created child process 23740
+[Thu Feb 06 10:33:22.633837 2025] [mpm_winnt:warn] [pid 20657:tid 372] AH00354: Parent: Created child process 10317
+[Thu Feb 06 15:47:44.376604 2025] [mpm_winnt:warn] [pid 24926:tid 398] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Feb 06 16:47:04.585546 2025] [mpm_winnt:crit] [pid 21404:tid 416] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 06 17:43:11.359588 2025] [mpm_winnt:warn] [pid 24766:tid 384] AH02538: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Thu Feb 06 18:49:55.241474 2025] [mpm_winnt:notice] [pid 29625:tid 357] AH00455: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 06 19:25:13.811784 2025] [mpm_winnt:warn] [pid 19676:tid 384] AH00094: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 06 19:34:32.299509 2025] [mpm_winnt:notice] [pid 1635:tid 408] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Feb 06 21:14:58.509284 2025] [mpm_winnt:warn] [pid 3954:tid 385] AH00094: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 06 21:16:10.371657 2025] [mpm_winnt:warn] [pid 6058:tid 374] AH00098: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 06 22:59:10.368099 2025] [mpm_winnt:crit] [pid 4417:tid 351] AH00094: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Fri Feb 07 00:43:54.370680 2025] [mpm_winnt:warn] [pid 26373:tid 393] AH00418: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 07 02:22:21.840766 2025] [mpm_winnt:warn] [pid 20335:tid 344] AH00354: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 07 02:41:38.844077 2025] [mpm_winnt:crit] [pid 20164:tid 386] AH00098: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 07 07:15:17.061076 2025] [mpm_winnt:crit] [pid 17838:tid 373] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 07 07:26:00.045231 2025] [mpm_winnt:crit] [pid 3808:tid 371] AH00354: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Fri Feb 07 07:54:30.012422 2025] [mpm_winnt:notice] [pid 20608:tid 344] AH00094: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 07 08:17:43.080496 2025] [mpm_winnt:warn] [pid 7889:tid 368] AH00098: Child: Starting 128 worker threads.
+[Fri Feb 07 11:10:56.491768 2025] [mpm_winnt:warn] [pid 3644:tid 380] AH00094: Child: Starting 200 worker threads.
+[Fri Feb 07 13:21:34.347803 2025] [mpm_winnt:notice] [pid 2747:tid 354] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Fri Feb 07 13:24:19.193994 2025] [mpm_winnt:warn] [pid 3960:tid 386] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 07 14:54:35.254019 2025] [mpm_winnt:warn] [pid 16433:tid 360] AH00455: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Feb 07 20:02:03.797335 2025] [mpm_winnt:crit] [pid 13972:tid 361] AH00455: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Feb 07 20:19:22.480602 2025] [mpm_winnt:warn] [pid 26726:tid 398] AH00456: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 07 23:29:19.161168 2025] [mpm_winnt:warn] [pid 2065:tid 364] AH02538: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Feb 08 00:19:53.469077 2025] [mpm_winnt:notice] [pid 18618:tid 342] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sat Feb 08 02:43:34.486505 2025] [mpm_winnt:crit] [pid 9817:tid 364] AH00418: Child: Starting 128 worker threads.
+[Sat Feb 08 06:02:39.437739 2025] [mpm_winnt:notice] [pid 19799:tid 415] AH01909: Parent: Created child process 4409
+[Sat Feb 08 07:06:53.574099 2025] [mpm_winnt:crit] [pid 25856:tid 398] AH00354: Parent: Created child process 20101
+[Sat Feb 08 08:32:06.673098 2025] [mpm_winnt:warn] [pid 8186:tid 381] AH00456: Parent: Created child process 14150
+[Sat Feb 08 08:50:51.250610 2025] [mpm_winnt:crit] [pid 12420:tid 379] AH00456: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Feb 08 12:23:44.720167 2025] [mpm_winnt:warn] [pid 20046:tid 389] AH01909: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 08 13:01:27.130133 2025] [mpm_winnt:crit] [pid 7289:tid 397] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Sat Feb 08 13:31:45.299582 2025] [mpm_winnt:crit] [pid 7877:tid 412] AH00418: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Feb 08 16:04:38.673039 2025] [mpm_winnt:crit] [pid 17890:tid 362] AH00094: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Sat Feb 08 16:06:23.022351 2025] [mpm_winnt:crit] [pid 16036:tid 377] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 08 18:51:16.393662 2025] [mpm_winnt:crit] [pid 21793:tid 392] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Sat Feb 08 20:52:41.107286 2025] [mpm_winnt:crit] [pid 27271:tid 385] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sat Feb 08 21:30:18.566208 2025] [mpm_winnt:warn] [pid 3757:tid 354] AH00455: Child: Starting 150 worker threads.
+[Sat Feb 08 21:40:46.600183 2025] [mpm_winnt:crit] [pid 11918:tid 401] AH02538: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Feb 08 23:11:57.528017 2025] [mpm_winnt:warn] [pid 13914:tid 386] AH00098: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Sun Feb 09 01:38:28.724022 2025] [mpm_winnt:crit] [pid 4432:tid 340] AH00418: Parent: Created child process 11977
+[Sun Feb 09 03:59:28.547679 2025] [mpm_winnt:warn] [pid 27804:tid 367] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Feb 09 05:51:33.383426 2025] [mpm_winnt:crit] [pid 21343:tid 379] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Feb 09 07:06:11.086906 2025] [mpm_winnt:warn] [pid 1002:tid 399] AH00456: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Feb 09 09:52:51.132629 2025] [mpm_winnt:warn] [pid 22409:tid 385] AH00094: Child: Starting 128 worker threads.
+[Sun Feb 09 13:07:05.301751 2025] [mpm_winnt:crit] [pid 21750:tid 397] AH00418: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sun Feb 09 13:52:48.555054 2025] [mpm_winnt:warn] [pid 24530:tid 341] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Feb 09 15:17:03.823257 2025] [mpm_winnt:crit] [pid 31441:tid 410] AH00354: Parent: Created child process 20195
+[Sun Feb 09 15:18:29.066237 2025] [mpm_winnt:notice] [pid 26847:tid 416] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Feb 09 21:29:11.797180 2025] [mpm_winnt:notice] [pid 4253:tid 359] AH00098: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Sun Feb 09 22:20:45.847322 2025] [mpm_winnt:warn] [pid 23094:tid 341] AH00354: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Mon Feb 10 01:20:11.297867 2025] [mpm_winnt:crit] [pid 4361:tid 404] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 10 01:24:28.414366 2025] [mpm_winnt:notice] [pid 19100:tid 378] AH02538: Parent: Created child process 4324
+[Mon Feb 10 01:52:16.066206 2025] [mpm_winnt:crit] [pid 18261:tid 408] AH00418: Parent: Created child process 28860
+[Mon Feb 10 03:21:33.310143 2025] [mpm_winnt:crit] [pid 12614:tid 345] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 10 05:43:50.443807 2025] [mpm_winnt:warn] [pid 23222:tid 413] AH02538: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Feb 10 10:12:26.166215 2025] [mpm_winnt:warn] [pid 12541:tid 369] AH00456: Parent: Created child process 16491
+[Mon Feb 10 11:42:44.727480 2025] [mpm_winnt:crit] [pid 3406:tid 368] AH00354: Child: Starting 150 worker threads.
+[Mon Feb 10 11:52:13.254456 2025] [mpm_winnt:crit] [pid 12952:tid 387] AH02538: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Feb 10 12:39:49.754076 2025] [mpm_winnt:notice] [pid 4483:tid 358] AH01909: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Mon Feb 10 14:39:56.800662 2025] [mpm_winnt:crit] [pid 20598:tid 340] AH00455: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Mon Feb 10 14:59:25.132434 2025] [mpm_winnt:notice] [pid 14557:tid 395] AH00354: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 10 16:49:58.435104 2025] [mpm_winnt:crit] [pid 12134:tid 362] AH00094: Parent: Created child process 26653
+[Mon Feb 10 16:50:38.376912 2025] [mpm_winnt:warn] [pid 12117:tid 407] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 10 17:01:41.016027 2025] [mpm_winnt:notice] [pid 13791:tid 389] AH00456: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Feb 10 17:29:13.389446 2025] [mpm_winnt:warn] [pid 17319:tid 371] AH02538: Parent: Created child process 26491
+[Mon Feb 10 19:01:45.234128 2025] [mpm_winnt:notice] [pid 27865:tid 412] AH01909: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Feb 10 19:18:03.166665 2025] [mpm_winnt:warn] [pid 13680:tid 356] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Mon Feb 10 23:55:34.822468 2025] [mpm_winnt:warn] [pid 29878:tid 380] AH00456: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Tue Feb 11 00:53:34.188996 2025] [mpm_winnt:warn] [pid 5980:tid 415] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Tue Feb 11 04:45:49.362503 2025] [mpm_winnt:crit] [pid 25234:tid 366] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 11 07:20:46.745563 2025] [mpm_winnt:notice] [pid 9174:tid 389] AH00098: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Tue Feb 11 09:04:12.431509 2025] [mpm_winnt:warn] [pid 15980:tid 340] AH00094: Child: Parent process exited abruptly. Child process is ending
+[Tue Feb 11 09:51:55.672730 2025] [mpm_winnt:warn] [pid 15949:tid 371] AH00354: Parent: Created child process 28117
+[Tue Feb 11 11:01:36.018084 2025] [mpm_winnt:notice] [pid 5146:tid 361] AH02538: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 11 11:07:11.221461 2025] [mpm_winnt:warn] [pid 10132:tid 380] AH00456: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Feb 11 11:10:57.582222 2025] [mpm_winnt:notice] [pid 8417:tid 367] AH00354: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Tue Feb 11 12:17:20.847342 2025] [mpm_winnt:crit] [pid 14343:tid 399] AH00456: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Tue Feb 11 12:58:02.682684 2025] [mpm_winnt:crit] [pid 23222:tid 409] AH00094: Child: Parent process exited abruptly. Child process is ending
+[Tue Feb 11 22:31:06.659575 2025] [mpm_winnt:warn] [pid 9569:tid 401] AH00094: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Tue Feb 11 23:26:51.486329 2025] [mpm_winnt:notice] [pid 8541:tid 350] AH00418: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 11 23:56:59.144119 2025] [mpm_winnt:warn] [pid 23923:tid 342] AH00456: Child: Parent process exited abruptly. Child process is ending
+[Wed Feb 12 00:15:38.245899 2025] [mpm_winnt:crit] [pid 6054:tid 374] AH01909: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Wed Feb 12 00:31:13.766170 2025] [mpm_winnt:notice] [pid 3227:tid 342] AH00456: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 12 01:42:53.751724 2025] [mpm_winnt:notice] [pid 28989:tid 396] AH02538: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Feb 12 01:52:19.469745 2025] [mpm_winnt:warn] [pid 28474:tid 351] AH00094: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Wed Feb 12 03:10:45.257247 2025] [mpm_winnt:crit] [pid 21678:tid 369] AH00456: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Feb 12 03:22:41.304709 2025] [mpm_winnt:warn] [pid 6065:tid 394] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 12 04:30:34.564340 2025] [mpm_winnt:notice] [pid 29871:tid 404] AH01909: Child: Parent process exited abruptly. Child process is ending
+[Wed Feb 12 08:42:22.848645 2025] [mpm_winnt:crit] [pid 2241:tid 382] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Wed Feb 12 09:33:37.401040 2025] [mpm_winnt:warn] [pid 17263:tid 408] AH00456: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Wed Feb 12 10:25:03.212820 2025] [mpm_winnt:warn] [pid 9845:tid 346] AH00354: Parent: Created child process 4733
+[Wed Feb 12 10:29:04.758905 2025] [mpm_winnt:warn] [pid 6863:tid 418] AH02538: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Feb 12 14:15:11.608068 2025] [mpm_winnt:crit] [pid 2623:tid 373] AH00098: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Feb 12 14:24:15.030483 2025] [mpm_winnt:notice] [pid 7303:tid 360] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 12 14:41:31.811187 2025] [mpm_winnt:crit] [pid 25858:tid 406] AH01909: Child: Parent process exited abruptly. Child process is ending
+[Wed Feb 12 17:55:30.088354 2025] [mpm_winnt:crit] [pid 3358:tid 347] AH00418: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Feb 12 20:50:43.830291 2025] [mpm_winnt:notice] [pid 8985:tid 381] AH00094: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 13 02:43:16.766869 2025] [mpm_winnt:notice] [pid 13728:tid 347] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Feb 13 03:41:22.829991 2025] [mpm_winnt:notice] [pid 17997:tid 377] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 13 04:43:04.662223 2025] [mpm_winnt:crit] [pid 1110:tid 394] AH00354: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 13 05:04:51.752327 2025] [mpm_winnt:warn] [pid 28327:tid 375] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 13 06:45:46.882155 2025] [mpm_winnt:notice] [pid 2432:tid 409] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Thu Feb 13 09:28:19.667761 2025] [mpm_winnt:warn] [pid 24397:tid 399] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 13 10:12:09.346185 2025] [mpm_winnt:warn] [pid 11030:tid 373] AH01909: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 13 10:34:32.750536 2025] [mpm_winnt:warn] [pid 2213:tid 405] AH02538: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Feb 13 11:41:40.350981 2025] [mpm_winnt:warn] [pid 24589:tid 385] AH00456: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Feb 13 16:37:59.462669 2025] [mpm_winnt:notice] [pid 2003:tid 383] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Thu Feb 13 19:13:44.244530 2025] [mpm_winnt:warn] [pid 27795:tid 382] AH00094: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 13 21:55:32.181594 2025] [mpm_winnt:warn] [pid 12507:tid 375] AH00094: Child: Starting 150 worker threads.
+[Fri Feb 14 01:15:01.413440 2025] [mpm_winnt:warn] [pid 30878:tid 413] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Feb 14 01:24:33.511391 2025] [mpm_winnt:notice] [pid 19878:tid 413] CRITICAL ERROR: SSL module encountered unrecoverable issue.
+[Fri Feb 14 02:20:20.809269 2025] [mpm_winnt:crit] [pid 26968:tid 382] AH01909: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Feb 14 03:05:06.844070 2025] [mpm_winnt:notice] [pid 9331:tid 342] AH00094: Child: Parent process exited abruptly. Child process is ending
+[Fri Feb 14 06:34:56.408827 2025] [mpm_winnt:notice] [pid 11489:tid 368] AH01909: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Fri Feb 14 08:42:29.899011 2025] [mpm_winnt:warn] [pid 2543:tid 406] AH00456: Parent: Created child process 17941
+[Fri Feb 14 11:36:16.890509 2025] [mpm_winnt:crit] [pid 24721:tid 389] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Fri Feb 14 13:07:26.761745 2025] [mpm_winnt:warn] [pid 9253:tid 408] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 14 14:20:39.112991 2025] [mpm_winnt:warn] [pid 7478:tid 403] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Feb 14 15:38:49.243685 2025] [mpm_winnt:notice] [pid 3439:tid 348] AH02538: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Feb 14 17:44:37.802517 2025] [mpm_winnt:warn] [pid 27648:tid 367] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 14 17:48:53.616681 2025] [mpm_winnt:notice] [pid 5385:tid 387] AH00456: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Feb 14 18:08:42.541875 2025] [mpm_winnt:crit] [pid 2219:tid 369] AH01909: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 14 18:19:09.237129 2025] [mpm_winnt:notice] [pid 3426:tid 389] CRITICAL ERROR: SSL module encountered unrecoverable issue.
+[Fri Feb 14 18:30:08.866969 2025] [mpm_winnt:crit] [pid 17148:tid 349] AH00418: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Feb 14 20:28:44.340489 2025] [mpm_winnt:crit] [pid 13334:tid 393] AH01909: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Fri Feb 14 20:51:59.705108 2025] [mpm_winnt:notice] [pid 12192:tid 385] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Fri Feb 14 23:44:36.047851 2025] [mpm_winnt:warn] [pid 23530:tid 410] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Sat Feb 15 00:35:00.255878 2025] [mpm_winnt:warn] [pid 16359:tid 375] AH00098: Parent: Created child process 13029
+[Sat Feb 15 02:29:26.804554 2025] [mpm_winnt:notice] [pid 17292:tid 404] AH02538: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Feb 15 05:53:20.584570 2025] [mpm_winnt:crit] [pid 22570:tid 355] AH00354: Parent: Created child process 27743
+[Sat Feb 15 10:44:39.432426 2025] [mpm_winnt:crit] [pid 12943:tid 416] AH01909: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sat Feb 15 14:34:23.778061 2025] [mpm_winnt:crit] [pid 31962:tid 400] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 15 16:11:52.500995 2025] [mpm_winnt:warn] [pid 1145:tid 350] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 15 19:55:00.811347 2025] [mpm_winnt:notice] [pid 15731:tid 363] AH00456: Child: Starting 150 worker threads.
+[Sat Feb 15 20:30:20.494333 2025] [mpm_winnt:notice] [pid 10340:tid 411] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sat Feb 15 22:04:35.408094 2025] [mpm_winnt:warn] [pid 31234:tid 415] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 15 23:56:58.548456 2025] [mpm_winnt:warn] [pid 3179:tid 396] AH00094: Parent: Created child process 9697
+[Sun Feb 16 00:44:26.566912 2025] [mpm_winnt:notice] [pid 10925:tid 407] AH00354: Child: Starting 128 worker threads.
+[Sun Feb 16 03:04:55.249235 2025] [mpm_winnt:notice] [pid 2604:tid 385] AH00098: Parent: Created child process 25731
+[Sun Feb 16 04:42:13.597591 2025] [mpm_winnt:warn] [pid 8959:tid 356] AH02538: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sun Feb 16 09:15:22.749052 2025] [mpm_winnt:notice] [pid 23139:tid 416] AH00418: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Feb 16 12:53:59.370056 2025] [mpm_winnt:notice] [pid 3809:tid 412] AH00418: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sun Feb 16 13:06:24.497222 2025] [mpm_winnt:warn] [pid 13053:tid 360] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Feb 16 14:14:44.402722 2025] [mpm_winnt:warn] [pid 2377:tid 414] AH00418: Child: Starting 64 worker threads.
+[Sun Feb 16 14:47:41.343386 2025] [mpm_winnt:notice] [pid 3788:tid 409] AH00456: Parent: Created child process 27501
+[Sun Feb 16 15:53:05.171033 2025] [mpm_winnt:crit] [pid 24297:tid 418] AH00456: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Feb 16 20:27:08.788070 2025] [mpm_winnt:warn] [pid 8094:tid 375] AH00094: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 16 20:32:35.005323 2025] [mpm_winnt:warn] [pid 6668:tid 387] AH01909: Child: Starting 64 worker threads.
+[Sun Feb 16 23:54:57.067735 2025] [mpm_winnt:crit] [pid 3442:tid 404] AH00098: Child: Starting 96 worker threads.
+[Mon Feb 17 01:23:02.287798 2025] [mpm_winnt:crit] [pid 26302:tid 412] AH00094: Child: Starting 96 worker threads.
+[Mon Feb 17 02:41:18.024068 2025] [mpm_winnt:warn] [pid 12542:tid 420] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Mon Feb 17 03:11:29.326215 2025] [mpm_winnt:crit] [pid 4886:tid 370] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Feb 17 04:21:45.624736 2025] [mpm_winnt:notice] [pid 1953:tid 347] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Feb 17 06:34:33.380841 2025] [mpm_winnt:warn] [pid 30487:tid 360] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Feb 17 09:46:40.318048 2025] [mpm_winnt:crit] [pid 7448:tid 352] AH01909: Child: Starting 200 worker threads.
+[Mon Feb 17 10:22:22.865963 2025] [mpm_winnt:notice] [pid 15439:tid 373] AH00354: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Mon Feb 17 12:02:44.553026 2025] [mpm_winnt:crit] [pid 24848:tid 358] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Mon Feb 17 12:28:26.097067 2025] [mpm_winnt:warn] [pid 4860:tid 394] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Mon Feb 17 12:46:22.635386 2025] [mpm_winnt:crit] [pid 1507:tid 366] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 17 15:44:23.175273 2025] [mpm_winnt:crit] [pid 5424:tid 343] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Mon Feb 17 16:10:06.655598 2025] [mpm_winnt:crit] [pid 17419:tid 394] AH01909: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 17 16:46:38.760149 2025] [mpm_winnt:notice] [pid 13779:tid 372] AH00354: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Feb 17 18:05:31.597928 2025] [mpm_winnt:crit] [pid 11646:tid 405] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 17 18:45:54.561102 2025] [mpm_winnt:notice] [pid 25397:tid 390] AH00098: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Feb 17 22:09:01.714503 2025] [mpm_winnt:notice] [pid 10268:tid 346] AH02538: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Mon Feb 17 22:54:22.572190 2025] [mpm_winnt:warn] [pid 16019:tid 351] AH00354: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 17 23:13:00.636554 2025] [mpm_winnt:crit] [pid 20221:tid 356] AH02538: intranet.local:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 17 23:29:26.698123 2025] [mpm_winnt:crit] [pid 14485:tid 366] AH02538: Child: Starting 150 worker threads.
+[Tue Feb 18 01:18:00.666114 2025] [mpm_winnt:crit] [pid 18809:tid 373] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Tue Feb 18 02:43:37.219283 2025] [mpm_winnt:warn] [pid 22517:tid 364] AH00418: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Feb 18 05:40:37.674769 2025] [mpm_winnt:notice] [pid 10948:tid 400] AH02538: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Tue Feb 18 07:31:16.354046 2025] [mpm_winnt:warn] [pid 26863:tid 417] AH00354: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Feb 18 08:21:33.652968 2025] [mpm_winnt:notice] [pid 1047:tid 351] AH00456: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Feb 18 09:08:48.331234 2025] [mpm_winnt:notice] [pid 2912:tid 379] AH00098: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Feb 18 10:08:08.150117 2025] [mpm_winnt:notice] [pid 30413:tid 356] AH00354: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 18 10:43:03.009350 2025] [mpm_winnt:warn] [pid 25130:tid 401] AH00418: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Feb 18 11:02:54.578958 2025] [mpm_winnt:crit] [pid 11675:tid 412] AH01909: Child: Starting 150 worker threads.
+[Tue Feb 18 12:30:54.461833 2025] [mpm_winnt:notice] [pid 23155:tid 387] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Tue Feb 18 12:39:43.291728 2025] [mpm_winnt:crit] [pid 31339:tid 396] AH02538: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Tue Feb 18 15:51:43.411831 2025] [mpm_winnt:warn] [pid 24078:tid 412] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 18 16:14:50.472688 2025] [mpm_winnt:warn] [pid 26077:tid 367] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 18 16:30:13.466066 2025] [mpm_winnt:notice] [pid 16894:tid 378] AH00354: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 18 18:32:37.667024 2025] [mpm_winnt:warn] [pid 25967:tid 364] AH02538: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Feb 18 18:37:51.678120 2025] [mpm_winnt:warn] [pid 28819:tid 405] AH00418: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Feb 18 19:26:27.140931 2025] [mpm_winnt:notice] [pid 13757:tid 410] AH02538: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Tue Feb 18 20:25:33.322076 2025] [mpm_winnt:warn] [pid 25266:tid 401] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 18 21:10:58.040354 2025] [mpm_winnt:crit] [pid 17243:tid 367] AH02538: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 18 21:25:55.887178 2025] [mpm_winnt:warn] [pid 4833:tid 393] AH00354: Child: Starting 200 worker threads.
+[Tue Feb 18 21:27:47.689777 2025] [mpm_winnt:notice] [pid 10435:tid 345] AH02538: Parent: Created child process 27327
+[Wed Feb 19 00:11:20.825084 2025] [mpm_winnt:warn] [pid 8492:tid 408] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 19 00:42:38.131001 2025] [mpm_winnt:crit] [pid 20242:tid 354] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Feb 19 01:13:43.784346 2025] [mpm_winnt:crit] [pid 29028:tid 418] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Wed Feb 19 03:41:02.456784 2025] [mpm_winnt:notice] [pid 25706:tid 367] AH00456: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Wed Feb 19 05:07:57.478815 2025] [mpm_winnt:warn] [pid 18599:tid 398] AH02538: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 19 06:03:25.636087 2025] [mpm_winnt:warn] [pid 31468:tid 346] AH00418: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Feb 19 07:09:46.544530 2025] [mpm_winnt:warn] [pid 28457:tid 413] AH00456: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 19 08:03:01.491010 2025] [mpm_winnt:crit] [pid 24338:tid 400] AH01909: Child: Starting 128 worker threads.
+[Wed Feb 19 13:01:26.288110 2025] [mpm_winnt:notice] [pid 26798:tid 375] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Wed Feb 19 13:15:21.143951 2025] [mpm_winnt:notice] [pid 20223:tid 372] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Wed Feb 19 13:46:59.205366 2025] [mpm_winnt:crit] [pid 27293:tid 420] AH02538: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Wed Feb 19 15:46:48.633556 2025] [mpm_winnt:warn] [pid 21907:tid 347] AH00098: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Wed Feb 19 16:22:04.211234 2025] [mpm_winnt:crit] [pid 10716:tid 377] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Wed Feb 19 17:01:46.272717 2025] [mpm_winnt:crit] [pid 24366:tid 399] AH00456: Child: Parent process exited abruptly. Child process is ending
+[Wed Feb 19 17:33:06.690295 2025] [mpm_winnt:notice] [pid 22723:tid 356] AH02538: Child: Starting 96 worker threads.
+[Wed Feb 19 18:25:19.090608 2025] [mpm_winnt:notice] [pid 26498:tid 352] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 19 18:35:34.019191 2025] [mpm_winnt:warn] [pid 3719:tid 359] AH02538: Parent: Created child process 25751
+[Wed Feb 19 19:00:57.281507 2025] [mpm_winnt:crit] [pid 13279:tid 411] AH00455: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Wed Feb 19 19:31:40.756898 2025] [mpm_winnt:notice] [pid 3016:tid 420] AH00094: Parent: Created child process 6713
+[Wed Feb 19 21:52:03.765322 2025] [mpm_winnt:crit] [pid 15142:tid 360] CRITICAL ERROR: SSL module encountered unrecoverable issue.
+[Thu Feb 20 00:34:51.499328 2025] [mpm_winnt:notice] [pid 9520:tid 355] AH02538: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Feb 20 01:51:44.313501 2025] [mpm_winnt:crit] [pid 23834:tid 341] AH00455: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Thu Feb 20 02:44:02.638092 2025] [mpm_winnt:crit] [pid 7117:tid 367] AH00456: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 03:07:46.267256 2025] [mpm_winnt:crit] [pid 26092:tid 372] AH02538: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Feb 20 03:44:48.013569 2025] [mpm_winnt:warn] [pid 28892:tid 370] AH00098: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 05:07:07.348336 2025] [mpm_winnt:notice] [pid 18909:tid 389] AH02538: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Thu Feb 20 07:28:22.749788 2025] [mpm_winnt:notice] [pid 16413:tid 367] AH00094: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 09:36:59.581731 2025] [mpm_winnt:warn] [pid 21412:tid 364] AH01909: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Thu Feb 20 11:44:37.566069 2025] [mpm_winnt:notice] [pid 25215:tid 345] AH00354: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 20 13:12:39.174608 2025] [mpm_winnt:notice] [pid 4793:tid 419] AH00094: Child: Starting 150 worker threads.
+[Thu Feb 20 13:50:23.095648 2025] [mpm_winnt:notice] [pid 28147:tid 343] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 20 15:54:25.779757 2025] [mpm_winnt:warn] [pid 8129:tid 378] AH00455: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Feb 20 16:27:24.655502 2025] [mpm_winnt:notice] [pid 16701:tid 367] AH00098: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 19:14:38.114665 2025] [mpm_winnt:crit] [pid 3870:tid 398] AH00418: Parent: Created child process 10681
+[Fri Feb 21 00:15:51.540520 2025] [mpm_winnt:crit] [pid 24682:tid 373] AH00456: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Feb 21 00:38:23.601454 2025] [mpm_winnt:crit] [pid 1163:tid 371] AH00455: Child: Starting 200 worker threads.
+[Fri Feb 21 02:24:42.656880 2025] [mpm_winnt:notice] [pid 3804:tid 340] AH00354: Child: Starting 200 worker threads.
+[Fri Feb 21 02:31:14.503687 2025] [mpm_winnt:crit] [pid 3299:tid 349] AH00456: Child: Parent process exited abruptly. Child process is ending
+[Fri Feb 21 04:02:35.827509 2025] [mpm_winnt:crit] [pid 16069:tid 340] AH01909: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Fri Feb 21 04:45:09.554301 2025] [mpm_winnt:crit] [pid 12766:tid 411] AH00418: Parent: Created child process 12398
+[Fri Feb 21 05:35:32.476765 2025] [mpm_winnt:notice] [pid 29910:tid 347] AH01909: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Feb 21 06:38:24.069953 2025] [mpm_winnt:warn] [pid 10022:tid 404] AH01909: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 21 08:45:08.232940 2025] [mpm_winnt:notice] [pid 25046:tid 350] AH01909: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Feb 21 11:04:49.721103 2025] [mpm_winnt:warn] [pid 27737:tid 374] AH00455: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Fri Feb 21 13:38:01.566277 2025] [mpm_winnt:crit] [pid 7547:tid 369] AH02538: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Feb 21 14:27:43.862583 2025] [mpm_winnt:warn] [pid 5437:tid 415] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Fri Feb 21 14:56:39.598383 2025] [mpm_winnt:notice] [pid 13585:tid 387] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Fri Feb 21 15:20:54.676623 2025] [mpm_winnt:warn] [pid 26958:tid 349] AH02538: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Fri Feb 21 15:45:07.681467 2025] [mpm_winnt:warn] [pid 8952:tid 405] AH02538: Parent: Created child process 15308
+[Fri Feb 21 18:33:01.176834 2025] [mpm_winnt:crit] [pid 26994:tid 390] AH02538: Parent: Created child process 28398
+[Fri Feb 21 23:06:14.816254 2025] [mpm_winnt:crit] [pid 27524:tid 357] AH00418: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Feb 22 02:22:16.607550 2025] [mpm_winnt:crit] [pid 27475:tid 341] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Feb 22 03:00:36.262037 2025] [mpm_winnt:warn] [pid 3893:tid 414] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Sat Feb 22 04:15:48.847084 2025] [mpm_winnt:warn] [pid 7141:tid 344] AH00418: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Feb 22 05:18:55.256649 2025] [mpm_winnt:notice] [pid 6929:tid 393] AH00354: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Feb 22 05:28:32.195749 2025] [mpm_winnt:warn] [pid 11547:tid 369] AH00098: Child: Starting 200 worker threads.
+[Sat Feb 22 10:48:28.329154 2025] [mpm_winnt:crit] [pid 16361:tid 412] AH01909: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Feb 22 13:37:22.393819 2025] [mpm_winnt:warn] [pid 29251:tid 362] AH02538: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 22 15:57:26.094639 2025] [mpm_winnt:warn] [pid 18290:tid 344] AH01909: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sat Feb 22 16:42:17.094289 2025] [mpm_winnt:warn] [pid 26595:tid 417] AH00455: Child: Starting 200 worker threads.
+[Sat Feb 22 17:25:50.529966 2025] [mpm_winnt:crit] [pid 25329:tid 409] AH00418: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 22 17:45:45.344878 2025] [mpm_winnt:crit] [pid 1230:tid 351] AH00418: dev.example.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 22 18:07:53.726845 2025] [mpm_winnt:notice] [pid 12057:tid 407] AH00098: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sat Feb 22 19:06:40.069987 2025] [mpm_winnt:warn] [pid 3079:tid 345] AH00098: Parent: Created child process 18804
+[Sat Feb 22 19:42:02.162069 2025] [mpm_winnt:crit] [pid 22713:tid 370] AH00354: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Feb 22 20:08:06.013147 2025] [mpm_winnt:warn] [pid 20749:tid 396] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sat Feb 22 20:33:27.688388 2025] [mpm_winnt:warn] [pid 27102:tid 417] AH00418: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 22 20:56:48.489767 2025] [mpm_winnt:notice] [pid 16653:tid 355] AH00456: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Feb 22 21:12:41.265558 2025] [mpm_winnt:warn] [pid 16745:tid 353] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 22 21:30:00.125518 2025] [mpm_winnt:warn] [pid 14765:tid 382] AH00098: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Feb 23 07:42:18.855339 2025] [mpm_winnt:warn] [pid 13996:tid 414] AH00456: Child: Starting 64 worker threads.
+[Sun Feb 23 07:58:11.675162 2025] [mpm_winnt:warn] [pid 24181:tid 391] AH00418: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sun Feb 23 11:06:57.817345 2025] [mpm_winnt:crit] [pid 3485:tid 346] AH00455: Child: Starting 128 worker threads.
+[Sun Feb 23 11:14:24.380523 2025] [mpm_winnt:crit] [pid 3316:tid 354] AH00354: Child: Starting 96 worker threads.
+[Sun Feb 23 13:02:44.421929 2025] [mpm_winnt:notice] [pid 1968:tid 344] AH00098: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Sun Feb 23 13:18:12.358663 2025] [mpm_winnt:notice] [pid 18837:tid 399] AH01909: Parent: Created child process 8296
+[Sun Feb 23 16:33:26.390053 2025] [mpm_winnt:warn] [pid 7508:tid 375] AH00455: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 23 18:09:32.780268 2025] [mpm_winnt:warn] [pid 10087:tid 383] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sun Feb 23 18:20:52.699021 2025] [mpm_winnt:warn] [pid 5400:tid 395] AH00098: Child: Parent process exited abruptly. Child process is ending
+[Mon Feb 24 00:25:49.045058 2025] [mpm_winnt:notice] [pid 24280:tid 400] AH01909: Child: Starting 96 worker threads.
+[Mon Feb 24 02:13:47.023649 2025] [mpm_winnt:warn] [pid 13580:tid 403] AH00354: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 02:22:19.043731 2025] [mpm_winnt:warn] [pid 12486:tid 356] AH00455: Child: Parent process exited abruptly. Child process is ending
+[Mon Feb 24 05:29:20.795086 2025] [mpm_winnt:warn] [pid 23914:tid 357] AH00455: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Mon Feb 24 06:06:25.482495 2025] [mpm_winnt:notice] [pid 24096:tid 368] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 24 09:12:26.244959 2025] [mpm_winnt:warn] [pid 31245:tid 402] AH00418: Parent: Created child process 19412
+[Mon Feb 24 10:49:51.687358 2025] [mpm_winnt:crit] [pid 9425:tid 402] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Mon Feb 24 11:17:24.312252 2025] [mpm_winnt:notice] [pid 30925:tid 397] AH00456: Parent: Created child process 9715
+[Mon Feb 24 13:10:27.696321 2025] [mpm_winnt:notice] [pid 25333:tid 416] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Mon Feb 24 16:44:35.240156 2025] [mpm_winnt:warn] [pid 27126:tid 340] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Mon Feb 24 18:03:37.797952 2025] [mpm_winnt:crit] [pid 18419:tid 414] AH00354: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Mon Feb 24 19:26:44.073078 2025] [mpm_winnt:crit] [pid 16415:tid 364] AH02538: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Feb 24 19:46:31.025732 2025] [mpm_winnt:notice] [pid 13185:tid 368] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 24 22:15:38.777055 2025] [mpm_winnt:warn] [pid 9594:tid 416] AH00418: Child: Starting 96 worker threads.
+[Mon Feb 24 22:36:15.325015 2025] [mpm_winnt:crit] [pid 20562:tid 393] AH01909: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Feb 24 23:28:48.816639 2025] [mpm_winnt:warn] [pid 31968:tid 397] AH00098: Child: Starting 200 worker threads.
+[Tue Feb 25 01:47:38.060133 2025] [mpm_winnt:crit] [pid 19537:tid 411] AH00354: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Tue Feb 25 02:37:19.125413 2025] [mpm_winnt:warn] [pid 14347:tid 362] AH00418: Parent: Created child process 9736
+[Tue Feb 25 04:27:33.581040 2025] [mpm_winnt:warn] [pid 15711:tid 377] AH00354: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Feb 25 06:13:48.580029 2025] [mpm_winnt:warn] [pid 10144:tid 405] AH00418: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Feb 25 08:19:47.174793 2025] [mpm_winnt:crit] [pid 14532:tid 402] AH00418: Child: Parent process exited abruptly. Child process is ending
+[Tue Feb 25 08:27:59.776839 2025] [mpm_winnt:notice] [pid 5876:tid 340] AH00098: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 25 08:39:19.164960 2025] [mpm_winnt:crit] [pid 9366:tid 393] AH02538: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Tue Feb 25 09:49:46.490559 2025] [mpm_winnt:warn] [pid 27438:tid 356] AH00098: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Feb 25 11:07:04.404386 2025] [mpm_winnt:warn] [pid 4014:tid 409] AH00098: Parent: Created child process 20896
+[Tue Feb 25 11:09:03.429995 2025] [mpm_winnt:crit] [pid 3946:tid 395] AH00456: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 25 13:18:18.348005 2025] [mpm_winnt:warn] [pid 6497:tid 397] AH01909: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 25 13:41:55.351847 2025] [mpm_winnt:crit] [pid 24742:tid 404] AH01909: Parent: Created child process 11250
+[Tue Feb 25 15:06:17.087504 2025] [mpm_winnt:notice] [pid 24491:tid 345] AH00354: Child: Starting 200 worker threads.
+[Tue Feb 25 15:31:43.404172 2025] [mpm_winnt:crit] [pid 8239:tid 386] AH00455: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Tue Feb 25 15:35:25.425110 2025] [mpm_winnt:crit] [pid 9903:tid 393] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Tue Feb 25 17:10:11.654012 2025] [mpm_winnt:notice] [pid 24507:tid 374] AH00418: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Tue Feb 25 18:10:56.567355 2025] [mpm_winnt:notice] [pid 13282:tid 384] AH01909: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 25 18:42:04.882377 2025] [mpm_winnt:notice] [pid 7792:tid 370] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 25 18:48:26.449618 2025] [mpm_winnt:warn] [pid 9609:tid 407] AH00354: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Feb 25 21:44:46.438809 2025] [mpm_winnt:warn] [pid 11486:tid 358] AH00094: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 25 21:51:34.383319 2025] [mpm_winnt:crit] [pid 19015:tid 377] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 25 22:27:14.381248 2025] [mpm_winnt:crit] [pid 22001:tid 358] AH00455: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Feb 25 22:46:11.264744 2025] [mpm_winnt:warn] [pid 20471:tid 416] AH00456: Child: Parent process exited abruptly. Child process is ending
+[Wed Feb 26 01:31:20.335850 2025] [mpm_winnt:warn] [pid 22474:tid 360] AH00418: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Feb 26 02:22:04.767044 2025] [mpm_winnt:crit] [pid 19129:tid 364] AH02538: Parent: Created child process 5206
+[Wed Feb 26 07:02:34.278508 2025] [mpm_winnt:warn] [pid 27450:tid 357] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Feb 26 07:45:55.592384 2025] [mpm_winnt:warn] [pid 17586:tid 340] AH01909: Child: Starting 96 worker threads.
+[Wed Feb 26 08:19:58.237216 2025] [mpm_winnt:crit] [pid 26840:tid 403] AH01909: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Feb 26 09:57:46.589538 2025] [mpm_winnt:crit] [pid 9441:tid 343] AH00456: Child: Starting 64 worker threads.
+[Wed Feb 26 10:05:20.186875 2025] [mpm_winnt:crit] [pid 8280:tid 415] AH02538: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 26 11:22:55.020313 2025] [mpm_winnt:warn] [pid 8346:tid 404] AH00354: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Feb 26 12:05:59.782511 2025] [mpm_winnt:crit] [pid 17075:tid 420] AH00455: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Wed Feb 26 12:29:20.872030 2025] [mpm_winnt:notice] [pid 20237:tid 400] AH00456: Apache/2.4.59 (Win64) OpenSSL/3.1.4 PHP/8.2.12 configured -- resuming normal operations
+[Wed Feb 26 12:46:03.591891 2025] [mpm_winnt:notice] [pid 17345:tid 366] AH00456: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Feb 26 13:43:41.702573 2025] [mpm_winnt:warn] [pid 20809:tid 368] AH01909: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Feb 26 14:52:58.532745 2025] [mpm_winnt:crit] [pid 20840:tid 347] AH00455: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Wed Feb 26 15:24:00.519153 2025] [mpm_winnt:crit] [pid 6692:tid 341] AH00456: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 26 15:40:07.220997 2025] [mpm_winnt:crit] [pid 23306:tid 381] AH01909: Apache/2.4.58 (Win64) OpenSSL/3.1.4 PHP/8.3.0 configured -- resuming normal operations
+[Wed Feb 26 23:44:53.675255 2025] [mpm_winnt:warn] [pid 19225:tid 371] AH00418: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 26 23:46:08.890861 2025] [mpm_winnt:crit] [pid 6919:tid 403] AH00455: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 27 02:05:45.834186 2025] [mpm_winnt:warn] [pid 6591:tid 388] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Feb 27 05:19:54.048579 2025] [mpm_winnt:crit] [pid 1865:tid 389] AH00456: portal.corp:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 11:18:09.759932 2025] [mpm_winnt:crit] [pid 25360:tid 344] AH00456: Child: Starting 128 worker threads.
+[Thu Feb 27 20:07:45.116030 2025] [mpm_winnt:notice] [pid 12709:tid 345] AH00098: Parent: Created child process 12473
+[Thu Feb 27 21:30:16.862448 2025] [mpm_winnt:notice] [pid 25545:tid 420] AH00418: Child: Starting 64 worker threads.
+[Fri Feb 28 00:54:52.007753 2025] [mpm_winnt:notice] [pid 12924:tid 356] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Fri Feb 28 01:59:46.341935 2025] [mpm_winnt:crit] [pid 18367:tid 400] AH00418: Apache Lounge VS17 Server built: Mar 12 2024 10:21:05
+[Fri Feb 28 04:58:37.719041 2025] [mpm_winnt:warn] [pid 25483:tid 409] AH01909: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Fri Feb 28 06:36:04.591031 2025] [mpm_winnt:warn] [pid 14665:tid 340] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Fri Feb 28 12:02:44.229109 2025] [mpm_winnt:crit] [pid 24117:tid 340] AH00418: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 28 13:26:30.422349 2025] [mpm_winnt:warn] [pid 24957:tid 349] AH02538: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Fri Feb 28 14:26:46.590602 2025] [mpm_winnt:crit] [pid 6697:tid 394] AH00455: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Feb 28 15:33:44.547566 2025] [mpm_winnt:notice] [pid 31288:tid 374] AH02538: test.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 28 18:18:29.054340 2025] [mpm_winnt:crit] [pid 17674:tid 360] AH00455: Parent: Created child process 7846
+[Fri Feb 28 19:39:14.263205 2025] [mpm_winnt:notice] [pid 26474:tid 348] AH00354: Child: Starting 200 worker threads.
+[Fri Feb 28 21:06:01.185920 2025] [mpm_winnt:notice] [pid 26804:tid 363] AH00354: Child: Parent process exited abruptly. Child process is ending
+[Fri Feb 28 21:29:20.632786 2025] [mpm_winnt:warn] [pid 15048:tid 360] AH00098: Child: Starting 200 worker threads.
+[Fri Feb 28 23:22:04.452105 2025] [mpm_winnt:notice] [pid 31011:tid 380] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18--- FIM DA ANÁLISE ---

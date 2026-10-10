@@ -1,0 +1,13 @@
+--- Estatistica ---
+NOME: Carlos Vilaça 
+DATA: 2026-10-03 18:05:29.577664
+
+--- INICIO DA ANÁLISE ---
+ssl:warn: 158 linhas
+core:warn: 185 linhas
+mpm_winnt:warn: 157 linhas
+mpm_winnt:notice: 168 linhas
+mpm_winnt:crit: 166 linhas
+core:notice: 166 linhas
+Total de linhas: 1000 linhas
+--- FIM DA ANÁLISE ---

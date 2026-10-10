@@ -1,0 +1,10 @@
+----- FATAL ERROR -----
+-----------------------------
+------- Carlos Vilaça ------
+DATA: 2026-09-14 17:35:45.983303
+-----------------------------
+[Sat Dec 14 10:02:22.703080 2024] [ssl:warn] [pid 11968:tid 352] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run? FATAL ERROR
+[Sat Dec 14 11:26:26.512389 2024] [ssl:warn] [pid 31465:tid 412] AH00455: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run? FATAL ERROR
+[Sat Dec 14 11:31:04.627900 2024] [core:warn] [pid 8922:tid 405] AH00094: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run? FATAL ERROR
+Quatidade FATAL ERROR: 3
+---- FIM DOS RESULTADOS ----

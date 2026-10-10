@@ -1,0 +1,8 @@
+--- FATAL ERRORS ---
+NOME: Ricardo Mourão
+DATA: 2026-09-30 12:00:02.013924
+--- INICIO DA ANÁLISE ---
+[sat dec 14 10:02:22.703080 2024] [ssl:warn] [pid 11968:tid 352] ah00455: pid file c:/xampp/apache/logs/httpd.pid overwritten -- unclean shutdown of previous apache run? fatal error
+[sat dec 14 11:26:26.512389 2024] [ssl:warn] [pid 31465:tid 412] ah00455: pid file c:/xampp/apache/logs/httpd.pid overwritten -- unclean shutdown of previous apache run? fatal error
+[sat dec 14 11:31:04.627900 2024] [core:warn] [pid 8922:tid 405] ah00094: pid file c:/xampp/apache/logs/httpd.pid overwritten -- unclean shutdown of previous apache run? fatal error
+--- FIM DA ANÁLISE ---
